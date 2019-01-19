@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+<div class="home_background">
+</div>
+
+<div class="home">
+
+  <div class="section">
+      <div class="row">
+
+        <!-- Activities -->
+        <div class="col-lg-4 col-md-6 col-xs-12 text-center mb-4">
+          <div class="card mb-4">
+            <img class="card-img-top" src="assets/images/pic1.jpg" alt="Aktiviteter">
+            <div class="card-body">
+              <h2 class="card-title">Aktiviteter</h2>
+              <ul class="list-group no-bullet">
+                {% assign sorted = site.activities | sort: 'when' %}
+                {% for activity in sorted %} 
+                  {% if activity.visible != false %}
+                  <li><a href="{{ activity.url }}">{{ activity.title }}</a> {{activity.when  | date: "%b %d" }}</li>
+                  {% endif %}
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <!-- Informations -->
+        <div class="col-lg-4 col-md-6 col-xs-12 text-center mb-4">
+            <div class="card mb-4">
+              <img class="card-img-top" src="assets/images/pic2.jpg" alt="Information">
+              <div class="card-body">
+                <h2 class="card-title">Information</h2>
+                <ul class="list-group list-group-flush no-bullet">
+                  {% for article in site.informations %}
+                  <li><a href="{{ article.url }}">{{ article.title }}</a></li>
+                  {% endfor %}
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <!-- Organisation -->
+          <div class="col-lg-4 col-md-6 col-xs-12 text-center mb-4">
+              <div class="card mb-4">
+                <img class="card-img-top" src="assets/images/pic3.jpg" alt="Föreningen">
+                <div class="card-body">
+                  <h2 class="card-title">Föreningen</h2>
+                  <ul class="list-group list-group-flush no-bullet">
+                    {% for article in site.organisation %}
+                    <li><a href="{{ article.url }}">{{ article.title }}</a></li>
+                    {% endfor %}
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+      </div>
+  </div>
+</div>
