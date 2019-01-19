@@ -5,7 +5,7 @@ title: Styrelsen
 Org.nr: <strong>802431-0305</strong> Ideella föreningar
 
 <strong>Adress:</strong>
-c/o Kalle Sandborg, Rödstjärtstigen 13, 311 96 HEBERG
+c/o Thérèse Troedsson, Industrigatan 8, 112 46 STOCKHOLM
 PlusGiro: 257 71-7
 
 <strong>NUVARANDE STYRELSE:</strong>
