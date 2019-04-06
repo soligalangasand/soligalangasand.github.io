@@ -5,6 +5,14 @@
   position: relative;
 }
 
+.site-logo {
+  float: left;
+  padding-right: 1rem;
+  padding-left: 1rem;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
 .home_background {
   background: url(/assets/images/top_img1.jpg);
   background-color: #cccccc; /* Used if the image is unavailable */
