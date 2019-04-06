@@ -1,6 +1,6 @@
 ---
 title: Valborgsmässoafton
-when: 2019-04-30 15:00 
+when: 2019-04-30 20:00 
 ---
 <h1>Valborgsmässofirande - 30 April</h1>
 Vi möter VÅREN med en riktigt stor brasa.

@@ -15,10 +15,14 @@ Trädgårdsavfall och ris från normal trädgårdsskötsel
 Brännbart avfall och fyllnadsmaterial.
 
 <strong>Datum:</strong> <span style="color: #000000;font-family: 'Times New Roman'">Inte uppdaterat för 2019.</span>
+<br>
 <strong>Öppet:</strong> Söndagar enligt ovan datum mellan 09.00 - 13.00.
+
+<br>
 <h2>ÅTERVINNING - Tidningar &amp; Glas</h2>
 <h3>Långasand - Strandparkeringen - OBS Endast glas!</h3>
 Utställda under april - september.
+
 <h3>ÅTERVINNING - Tidningar, Glas, Kartong, Wellpapp, Plast, Metall, Kläder.</h3>
 <table>
 <tbody>

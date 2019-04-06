@@ -1,8 +1,8 @@
 ---
 title: Strandstädning
-when: 2019-04-21 15:00 
+when: 2019-04-21 10:00 
 ---
-<h1>STRANDSTÄDNING - LÖRDAGEN DEN 21a APRIL</h1>
+<h1>STRANDSTÄDNING - SÖNDAGEN DEN 21a APRIL</h1>
 
 Samling kl 10.00 vid Långasandsparkeringen.
 
@@ -10,7 +10,7 @@ Efter städningen bjuder vi alla på grillkorv med bröd och dricka.
 Medtag egna arbetshandskar.
 
 Vi tackar den trogna skara som varje år är med och städar stranden.
-Det är inte tungt eller smutsigt men väldigt gemytligt när vi är fördiga.
+Det är inte tungt eller smutsigt men väldigt gemytligt när vi är färdiga.
 
 <h2>Bilder från tidigare städning</h2>
 

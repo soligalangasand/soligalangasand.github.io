@@ -1,6 +1,6 @@
 ---
 title: Årsmöte
-when: 2019-07-09 20:00 
+when: 2019-07-09 18:00 
 ---
 <h1>Årsmöte - 2019</h1>
 Datum : Tisdagen den 9 juli
