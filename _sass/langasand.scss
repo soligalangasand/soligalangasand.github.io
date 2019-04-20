@@ -1,3 +1,17 @@
+.site-wrapper {
+  max-width: -webkit-calc(970px - (30px * 2));
+  max-width: calc(970px - (30px * 2));
+  margin-right: auto;
+  margin-left: auto;
+  height: 70px;
+  padding-right: 30px;
+  padding-left: 30px;  
+  @include media-query($on-palm) {
+    padding-right: 5px;
+    padding-left: 5px;
+  }
+}
+
 .site-header {
   border-top: 0px solid #424242;
   border-bottom: 1px solid #e8e8e8;
@@ -7,10 +21,33 @@
 
 .site-logo {
   float: left;
-  padding-right: 1rem;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: left;
+  margin: 10px;
+}
+
+.site-nav-title {
+  font-size: 26px;
+  font-weight: 300;
+  line-height: 74px;
+  letter-spacing: -1px;
   padding-left: 1rem;
-  padding-top: 10px;
-  padding-bottom: 10px;
+
+  @include media-query($on-palm) {
+    padding-top: 0;
+    padding-left: 0;
+    line-height: 30px;
+  }
+
+}
+
+.trigger {
+  padding-right: 24px;
+}
+
+.at-bottom {
+  vertical-align: bottom;
 }
 
 .home_background {
