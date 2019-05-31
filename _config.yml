@@ -29,6 +29,8 @@ facebook_username: SoligaLangasand
 collections:
   activities:
     output: true
+  breakfast_meetings:
+    output: true
   informations:
     output: true
   organisation:
@@ -38,6 +40,11 @@ defaults:
   - scope:
       path: ""
       type: activities
+    values:
+      layout: "article"
+  - scope:
+      path: ""
+      type: breakfast_meetings
     values:
       layout: "article"
   - scope:

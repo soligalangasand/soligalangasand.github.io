@@ -17,7 +17,7 @@ layout: default
       <div class="row">
 
         <!-- Activities -->
-        <div class="col-lg-4 col-md-6 col-xs-12 text-center mb-4">
+        <div class="col-lg-6 col-md-6 col-xs-12 text-center mb-4">
           <div class="card mb-4">
             <img class="card-img-top" src="assets/images/pic1.jpg" alt="Aktiviteter">
             <div class="card-body">
@@ -34,10 +34,32 @@ layout: default
           </div>
         </div>
 
+        <!-- Breakfast meetings -->
+        <div class="col-lg-6 col-md-6 col-xs-12 text-center mb-4">
+          <div class="card mb-4">
+            <img class="card-img-top" src="assets/images/pic2.jpg" alt="Aktiviteter">
+            <div class="card-body">
+              <h2 class="card-title">Frukostföreläsningar</h2>
+              <p class="pl-1">
+                På tisdagar under juli arrangerar vi frukostseminarier med intressanta, lokala föreläsare.
+                Mer info inom kort!   
+              </p>
+              <ul class="list-group no-bullet">
+                {% assign sorted = site.breakfast_meetings | sort: 'when' %}
+                {% for meeting in sorted %} 
+                  {% if meeting.visible != false %}
+                  <li><a href="{{ meeting.url }}">{{ meeting.title }}</a> {{meeting.when  | date: "%b %d" }}</li>
+                  {% endif %}
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+        </div>
+
         <!-- Informations -->
-        <div class="col-lg-4 col-md-6 col-xs-12 text-center mb-4">
+        <div class="col-lg-6 col-md-6 col-xs-12 text-center mb-4">
             <div class="card mb-4">
-              <img class="card-img-top" src="assets/images/pic2.jpg" alt="Information">
+              <img class="card-img-top" src="assets/images/pic3.jpg" alt="Information">
               <div class="card-body">
                 <h2 class="card-title">Information</h2>
                 <ul class="list-group list-group-flush no-bullet">
@@ -50,9 +72,9 @@ layout: default
           </div>
 
           <!-- Organisation -->
-          <div class="col-lg-4 col-md-6 col-xs-12 text-center mb-4">
+          <div class="col-lg-6 col-md-6 col-xs-12 text-center mb-4">
               <div class="card mb-4">
-                <img class="card-img-top" src="assets/images/pic3.jpg" alt="Föreningen">
+                <img class="card-img-top" src="assets/images/pic4.jpg" alt="Föreningen">
                 <div class="card-body">
                   <h2 class="card-title">Föreningen</h2>
                   <ul class="list-group list-group-flush no-bullet">
