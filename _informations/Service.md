@@ -5,25 +5,30 @@ title: Service
 <div class="stuff">
 <h2></h2>
 <h2>ÅTERVINNING - Grovsopor - OBS! återvinningskort behövs.</h2>
+<p>
 Sandladan - Falkenberg för öppettider mm hänvisas till Vivabs hemsida
 
 <a href="http://www.vivab.info/">http://www.vivab.info/</a>
-<h3></h3>
-<h2>Långasand - Fotbollsplanen</h2>
-Skrot, Trä (men ej tryckimpregnerat),
-Trädgårdsavfall och ris från normal trädgårdsskötsel
-Brännbart avfall och fyllnadsmaterial.
+</p>
+<h2>Besked om återvinning i Långasand</h2>
+<p>
+Som ni kanske redan har märkt har Vivab beslutat att ta bort den mobila återvinningen i år, som med jämna mellanrum ställts ut vid fotbollsplanen. Föreningen har varit i kontakt med Vivab vid ett par tillfällen för att diskutera alternativ, men som det ser ut nu kommer Vivab inte att ställa ut några mobila containrar i år. Föreningen fortsätter dock diskussionerna för att försöka hitta en lösning och undersöker också möjligheten att samverka med andra föreningar i Långasand.
+</p>
+<h2>ÅTERVINNING - Glas</h2>
 
-<strong>Datum:</strong> <span style="color: #000000;font-family: 'Times New Roman'">Inte uppdaterat för 2019.</span>
-<br>
-<strong>Öppet:</strong> Söndagar enligt ovan datum mellan 09.00 - 13.00.
+<table>
+<tbody>
+<tr>
+    <td>Långasand</td>
+    <td>Strandparkeringen</td>
+</tr>
+</tbody>
+</table>
 
-<br>
-<h2>ÅTERVINNING - Tidningar &amp; Glas</h2>
-<h3>Långasand - Strandparkeringen - OBS Endast glas!</h3>
+<p>
 Utställda under april - september.
-
-<h3>ÅTERVINNING - Tidningar, Glas, Kartong, Wellpapp, Plast, Metall, Kläder.</h3>
+</p>
+<h2>ÅTERVINNING - Tidningar, Glas, Kartong, Wellpapp, Plast, Metall, Kläder.</h2>
 <table>
 <tbody>
 <tr>
@@ -31,10 +36,12 @@ Utställda under april - september.
 <td>Gamla vägen, mittemot Lars Bilverkstad.</td>
 </tr>
 <tr>
-<td>Utställda</td>
-<td>ÅRET RUNT.</td>
+<td>Slöinge</td>
+<td>Vid Boulébanorna på Järnvägsgatan.</td>
 </tr>
 </tbody>
 </table>
-<h2></h2>
+<p>
+Utställda året runt.
+</p>
 </div>
