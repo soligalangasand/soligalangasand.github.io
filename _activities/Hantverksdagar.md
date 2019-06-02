@@ -73,6 +73,10 @@ visible: true
 <td><span>Margareta Tönsgård</span></td>
 <td>Brickor, återbruk</td>
 </tr>
+<tr style="border-color: #ffffff;background-color: #ffffff">
+<td><span>Anneli Eriksson</span></td>
+<td>Återbruk smycken</td>
+</tr>
 </tbody>
 </table>
 &nbsp;
