@@ -11,8 +11,8 @@ Plats : Anne-Maries Loge, Långasand
 
 Varmt välkomna till årsmöte med Långasands fastighetsägareförening!
 <ul>
- 	<li>Årsmötesförhandlingar enligt stadgarna</li>
- 	<li>Förslag till stadgeändringar</li>
+ 	<li>Årsmötesförhandlingar, <a href="/assets/documents/årsmöte_2019_dagordning.pdf">dagordning enligt stadgar</a>.</li>
+ 	<li>Förslag till stadgeändringar. <a href="/assets/documents/årsmöte_2019_Stadgar för Långasands Fastighetsägareförening -revförslag.pdf">Se förslaget här</a>.</li>
 </ul>
 Vi bjuder på kaffe och kaka.
 
