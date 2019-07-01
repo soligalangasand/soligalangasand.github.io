@@ -11,6 +11,15 @@ Jag vill visa med mina bilder hur jag hittar det vackra i det som kanske anses f
 Några tankar och tips om vad jag tänker på när jag fotograferar. 
 </p>
 
-<hr />
+<h3>
+När: {{ page.when }}<br>
+Var: Anne-Maries Loge<br>
+Hur: Enklare frukost ingår i avgiften på 50kr.<br> 
+    <strong>OBS!</strong> Anmäl er senast kl 17.00 dagen före respektive seminarie på mail till
+    <a href="mailto:ordforande@langasand.se?Subject=Anmälan%20frukostföreläsning%20juli%2023" target="_top">ordforande@langasand.se</a>
+</h3>
+
+<hr class="my-2" />
 <p class="infotext" style="text-align: center"><strong>Arrangör:</strong>
-Långasands Fastighetsägareförening</p>
+Långasands Fastighetsägareförening tillsammans med Ugglarps Byalag.</p>
+
