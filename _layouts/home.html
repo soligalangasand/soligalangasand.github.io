@@ -59,9 +59,13 @@ layout: default
               <div class="card-body">
                 <h2 class="card-title">Information</h2>
                 <ul class="list-group list-group-flush no-bullet">
-                  {% for article in site.informations %}
-                  <li><a href="{{ article.url }}">{{ article.title }}</a></li>
-                  {% endfor %}
+                    {% for article in site.informations %}
+                    <li><a href="{{ article.url }}">{{ article.title }}</a></li>
+                    {% endfor %}
+                    <!-- Links to collaboration orgs. -->
+                    <li><a href="http://www.langasandsif.com/">Långasands idrottsförening</a></li>
+                    <li><a href="http://www.vagforening.com/ullarp-skallentorp">Ullarp-Skällentorp Vägförening</a></li>
+                    <li><a href="http://www.samfallighet.com/langasand">Långasands Samfällighetsförening</a></li>
                 </ul>
               </div>
             </div>
