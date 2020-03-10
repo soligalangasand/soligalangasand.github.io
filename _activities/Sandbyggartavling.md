@@ -1,9 +1,9 @@
 ---
 title: Sandbyggartävling
-when: 2019-07-20 14:00 
+when: 2020-07-18 14:00 
 ---
-<h1>SANDBYGGARTÄVLING - 2019</h1>
-<strong>Lördag den 20 juli</strong>
+<h1>SANDBYGGARTÄVLING - 2020</h1>
+<strong>Lördag den 18 juli</strong>
 <ul>
  	<li>Anmälan kl 13:30</li>
  	<li>Byggstart kl 14:00</li>

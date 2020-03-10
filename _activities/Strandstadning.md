@@ -1,8 +1,8 @@
 ---
 title: Strandstädning
-when: 2019-04-21 10:00 
+when: 2020-04-12 10:00 
 ---
-<h1>STRANDSTÄDNING - SÖNDAGEN DEN 21a APRIL</h1>
+<h1>STRANDSTÄDNING - SÖNDAGEN DEN 12e APRIL</h1>
 
 Samling kl 10.00 vid Långasandsparkeringen.
 

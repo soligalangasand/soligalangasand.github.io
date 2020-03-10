@@ -1,7 +1,7 @@
 ---
 title: Hantverksdagar
 when: 2019-06-28 20:00 
-visible: true
+visible: false
 ---
 <h1>KONST- och HANTVERKSDAGAR</h1>
 <h3>ANNE-MARIES LOGE - Långasand</h3>
