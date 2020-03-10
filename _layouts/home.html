@@ -7,8 +7,9 @@ layout: default
 
 <div class="home">
   
-  <h1 class="center pt-3">Tack för säsongen 2019!</h1>
-  <h2 class="center pt-1">Tider för aktiviteter och frukostföreläsningar 2020 kommer under våren.</h2>
+  <h1 class="center pt-3">Välkomna till Soliga Långasand!</h1>
+  <h2 class="center pt-1">I år arrangerar vi en härlig blandning av klassiker som Midsommar, Valborg och Sandbyggartävling och fortsätter med 
+    förra årets populära frukostföreläsningar. Några nya koncept är dessutom på ingång och presenteras inom kort!</h2>
 
   <div class="section">
       <div class="row">
@@ -18,7 +19,7 @@ layout: default
           <div class="card mb-4">
             <img class="card-img-top" src="assets/images/pic1.jpg" alt="Aktiviteter">
             <div class="card-body">
-              <h2 class="card-title">Aktiviteter 2019</h2>
+              <h2 class="card-title">Aktiviteter</h2>
               <ul class="list-group no-bullet">
                 {% assign sorted = site.activities | sort: 'when' %}
                 {% for activity in sorted %} 
@@ -36,13 +37,15 @@ layout: default
           <div class="card mb-4">
             <img class="card-img-top" src="assets/images/pic2.jpg" alt="Aktiviteter">
             <div class="card-body">
-              <h2 class="card-title">Frukostföreläsningar 2019</h2>
-              <p class="pl-1">
-                På tisdagar under juli arrangerar vi frukostseminarier med intressanta, lokala föreläsare.
-                <br>
-                OBS! Anmäl er senast kl 17.00 dagen före respektive seminarie på mail till 
+              <h2 class="card-title">Frukostföreläsningar</h2>
+              <p class="px-1">
+                Schema för årets frukostföreläsningar är på gång!
+              </p>
+              <p class="px-1">
+                Vill du presentera det du jobbar med, eller brinner för, hör av dig på mail till Thérèse Throedsson: 
                 <a href="mailto:ordforande@langasand.se?Subject=Anmälan%20frukostföreläsning" target="_top">ordforande@langasand.se</a>
               </p>
+              <!--
               <ul class="list-group no-bullet">
                 {% assign sorted = site.breakfast_meetings | sort: 'when' %}
                 {% for meeting in sorted %} 
@@ -51,6 +54,7 @@ layout: default
                   {% endif %}
                 {% endfor %}
               </ul>
+            -->
             </div>
           </div>
         </div>

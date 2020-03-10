@@ -1,13 +1,13 @@
 ---
 title: Midsommarfirande
-when: 2019-06-21 15:00 
+when: 2020-06-19 15:00 
 ---
-<h1>Midsommarfirande - 2019</h1>
+<h1>Midsommarfirande - 2020</h1>
 <table>
 <tbody>
 <tr>
 <td>TID</td>
-<td>Fredagen den 21 juni, kl 10.00 - 16.00</td>
+<td>Fredagen den 19 juni, kl 10.00 - 16.00</td>
 </tr>
 <tr>
 <td>PLATS</td>
@@ -36,5 +36,5 @@ Fastighetsägareföreningen i Långasand har under många år anordnat midsommar
 
 Det blir musik och dans. Lotterier, glass till barnen.
 
-Restaurang Strandstugan är öppen. 
+<!-- Restaurang Strandstugan är öppen. -->
 <h3>VÄLKOMMEN!</h3>

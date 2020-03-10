@@ -1,11 +1,11 @@
 ---
 title: Tipspromenad
-when: 2019-06-22 16:00 
+when: 2020-06-20 16:00 
 ---
 <h1>Tipspromenad midsommardagen</h1>
 <span>För hela familjen, kluriga barn- och vuxenfrågor, sträckning runt Långasand. </span>
 
-Datum 2019 06 22.
+Datum 2020 06 20.
 
 Starttid mellan kl: 16:00-17:00.
 
