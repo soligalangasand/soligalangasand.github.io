@@ -78,6 +78,18 @@
   padding-right: 1rem;
 }
 
+.blue-background {
+  background-color: #022D74;
+}
+
+.text-white {
+  color: #FFFFFF;
+}
+
+.italic {
+  font-style: italic;
+} 
+
 .float-right {
   float: right;
 }
@@ -96,6 +108,10 @@
 
 .center {
   text-align: center;
+}
+
+.right {
+  text-align: right;
 }
 
 
@@ -120,6 +136,10 @@
 
 .pt-1 {
   padding-top: 1rem;
+}
+
+.pt-2 {
+  padding-top: 2rem;
 }
 
 .pt-3 {
