@@ -5,7 +5,8 @@
   margin-left: auto;
   height: 70px;
   padding-right: 30px;
-  padding-left: 30px;  
+  padding-left: 30px;
+  padding-top: 5px;  
   @include media-query($on-palm) {
     padding-right: 5px;
     padding-left: 5px;
@@ -33,7 +34,7 @@
   line-height: 74px;
   letter-spacing: -1px;
   padding-left: 1rem;
-
+  padding-top: 4px !important;
   @include media-query($on-palm) {
     padding-top: 0;
     padding-left: 0;
@@ -84,6 +85,10 @@
 
 .text-white {
   color: #FFFFFF;
+}
+
+.text-blue {
+  color: #4F4F4F;  
 }
 
 .italic {
@@ -153,6 +158,11 @@
 .px-1 {
   padding-left: 1rem;
   padding-right: 1rem;
+}
+
+.px-2 {
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
 
 
