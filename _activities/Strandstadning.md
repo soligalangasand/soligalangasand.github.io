@@ -1,13 +1,14 @@
 ---
 title: Strandstädning
-when: 2020-04-12 10:00 
+when: 2020-06-07 10:00 
 ---
-<h1>STRANDSTÄDNING - SÖNDAGEN DEN 12e APRIL</h1>
+<h1>STRANDSTÄDNING - SÖNDAGEN DEN 7 JUNI</h1>
 
 Samling kl 10.00 vid Långasandsparkeringen.
 
-Efter städningen bjuder vi alla på grillkorv med bröd och dricka.
-Medtag egna arbetshandskar.
+Observera den senarelagda starten för årets strandstädning! 
+
+Efter städningen bjuder vi på dricka och om det fungerar som vanligt även grillkorv med bröd.<br>Medtag egna arbetshandskar.
 
 Vi tackar den trogna skara som varje år är med och städar stranden.
 Det är inte tungt eller smutsigt men väldigt gemytligt när vi är färdiga.
@@ -18,6 +19,6 @@ Det är inte tungt eller smutsigt men väldigt gemytligt när vi är färdiga.
 <img width="160" height="120" class="alignright size-full wp-image-61" alt="040424-02" src="/assets/images/040424-02.jpg" />
 <img width="160" height="120" class="alignright size-full wp-image-62" alt="040424-03" src="/assets/images/040424-03.jpg" />
 
-Det brukar vara ett 40 tal personer som ställer upp - kom du också!
+Det brukar vara ett 40-tal personer som ställer upp - Kom du också!
 
 Arrangör: Långasands Fastighetsägareförening
