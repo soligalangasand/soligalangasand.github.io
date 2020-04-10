@@ -54,27 +54,23 @@
             type: 'rabbit',
             title: "Midsommarstången"
           }, {
-            position: new google.maps.LatLng(56.833137, 12.587829),
+            position: new google.maps.LatLng(56.833074, 12.587764),
             type: 'rabbit',
             title: "Fiskar-Eriks båtklubb"
           }, {
-            position: new google.maps.LatLng(56.833268, 12.587172),
-            type: 'rabbit', 
-            title: "Garnberget, grillplatsen"
-          }, {
-            position: new google.maps.LatLng(56.830270, 12.597802),
+            position: new google.maps.LatLng(56.830317, 12.597824),
             type: 'rabbit', 
             title: "Livbojen"
           }, {
-            position: new google.maps.LatLng(56.827012, 12.601044),
+            position: new google.maps.LatLng(56.835808, 12.589898),
             type: 'rabbit', 
-            title: "Trossnäsbergets fot"
+            title: "Utsikten"
           }, {
-            position: new google.maps.LatLng(56.828408, 12.601504),
+            position: new google.maps.LatLng(56.836265, 12.583309),
             type: 'rabbit', 
-            title: "Utedasset"
+            title: "Stenen"
           }, {
-            position: new google.maps.LatLng(56.832664, 12.599378),
+            position: new google.maps.LatLng(56.832754, 12.599374),
             type: 'rabbit2', 
             title: "Groddammen"
           }, {
@@ -95,7 +91,7 @@
           marker.addListener('click', function() {
 
             var contentString = 
-              '<h1 id="firstHeading" class="firstHeading">' + this.getTitle() + '</h1>';
+              '<h2 id="firstHeading" class="firstHeading">' + this.getTitle() + '</h2>';
       marker.t
             infoWindow.setContent(contentString);            
             infoWindow.open(map, this);
