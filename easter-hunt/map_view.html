@@ -1,0 +1,110 @@
+ <!DOCTYPE html>
+<html>
+  <head>
+    <title>Custom Markers</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script>
+      var map;
+      var infoWindow; 
+
+      function initMap() {
+        map = new google.maps.Map(
+            document.getElementById('map'),
+            {center: new google.maps.LatLng(56.835694, 12.603196), zoom: 15});
+
+        infoWindow = new google.maps.InfoWindow();
+
+        var iconBase =
+            './';
+
+        var icons = {
+          rabbit: {
+            icon: iconBase + 'lff_kanin.png'
+          },
+          rabbit2: {
+            icon: iconBase + 'lff_kanin_2.png'
+          }
+        };
+
+        
+        var features = [
+          {
+            position: new google.maps.LatLng(56.837500, 12.601533),
+            type: 'rabbit',
+            title: "Lekplatsen - Rutschkanan"
+          }, {
+            position: new google.maps.LatLng(56.835922, 12.600683),
+            type: 'rabbit',
+            title: "Midsommarstången"
+          }, {
+            position: new google.maps.LatLng(56.833137, 12.587829),
+            type: 'rabbit',
+            title: "Fiskar-Eriks båtklubb"
+          }, {
+            position: new google.maps.LatLng(56.833268, 12.587172),
+            type: 'rabbit', 
+            title: "Garnberget, grillplatsen"
+          }, {
+            position: new google.maps.LatLng(56.830270, 12.597802),
+            type: 'rabbit', 
+            title: "Livbojen"
+          }, {
+            position: new google.maps.LatLng(56.827012, 12.601044),
+            type: 'rabbit', 
+            title: "Trossnäsbergets fot"
+          }, {
+            position: new google.maps.LatLng(56.828408, 12.601504),
+            type: 'rabbit', 
+            title: "Utedasset"
+          }, {
+            position: new google.maps.LatLng(56.832664, 12.599378),
+            type: 'rabbit2', 
+            title: "Groddammen"
+          }, {
+            position: new google.maps.LatLng(56.835719, 12.606796),
+            type: 'rabbit', 
+            title: "Brunnslocket Rodendendronparken"
+          }
+        ];
+
+        // Create markers.
+        for (var i = 0; i < features.length; i++) {
+          var marker = new google.maps.Marker({
+            position: features[i].position,
+            icon: icons[features[i].type].icon,
+            map: map, 
+            title: features[i].title
+          });
+          marker.addListener('click', function() {
+
+            var contentString = 
+              '<h1 id="firstHeading" class="firstHeading">' + this.getTitle() + '</h1>';
+      marker.t
+            infoWindow.setContent(contentString);            
+            infoWindow.open(map, this);
+          });          
+        };
+      }
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDnmhKXnKwF0o55Z7Lm2yQ0HEV8fEWTh7I&callback=initMap">
+    </script>
+  </body>
+</html>
