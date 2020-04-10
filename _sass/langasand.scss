@@ -63,6 +63,19 @@
   margin-left: calc(-50vw + 50%);
 }
 
+button {
+  background-color: #ffffff;
+  border: none;
+  color: #022D74;
+  padding: 15px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+}
+
+
  .full-width {
   width: 100vw;
   margin-left: calc(-50vw + 50%);
@@ -81,6 +94,16 @@
 
 .blue-background {
   background-color: #022D74;
+}
+
+.bunny-background {
+  background: url(/assets/images/victor-larracuente-8-9hqGiqgR4-unsplash.jpg);
+  background-color: #cccccc; /* Used if the image is unavailable */
+  min-height: 200px;
+  height: 20vh;
+  background-position: center top; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
 }
 
 .text-white {
