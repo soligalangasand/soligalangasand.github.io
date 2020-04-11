@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>GeoAR.js demo</title>
+    <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+    <script src="https://unpkg.com/aframe-look-at-component@0.8.0/dist/aframe-look-at-component.min.js"></script>
+    <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar-nft.js"></script>
+  </head>
+
+  <body style="margin: 0; overflow: hidden;">
+    <a-scene
+      vr-mode-ui="enabled: false"
+      embedded
+      arjs="sourceType: webcam; debugUIEnabled: false;"
+    >
+    <a-assets>
+      <img id="lekplatsen_img" src="./assets/lekplatsen.jpg">
+      <img id="brunnslocket_img" src="./assets/brunnslocket.jpg">
+      <img id="fiskarerik_img" src="./assets/fiskarerik.jpg">
+      <img id="livbojen_img" src="./assets/livbojen.jpg">
+      <img id="midsommar_img" src="./assets/midsommar.jpg">
+      <img id="stenen_img" src="./assets/stenen.jpg">
+      <img id="groddammen_img" src="./assets/groddammen.jpg">
+      <img id="utsikten_img" src="./assets/utsikten.jpg">
+    </a-assets>
+      <a-camera gps-camera rotation-reader> 
+        
+        <a-entity id="cameraTextPlate" geometry="primitive: plane; height: 0.15; width: 1" position="0 0.35 -1"
+        material="color: white;"
+        >
+          <a-text id="cameraTextPlace" value="place" color="black" opacity="1"
+          position="-0.1 0.015 0.0"
+          scale="0.2 0.2 0.2"
+          zOffset="0.001">
+          ></a-text>
+          <a-text id="cameraTextDistance" value="100m" color="black" opacity="1"
+          position="-0.1 -0.038 0.0"
+          scale="0.2 0.2 0.2"
+          zOffset="0.001">
+          ></a-text>
+          <a-image id="cameraPlateImage" position="-0.2 0.0 0.0" scale="0.15 0.15 0.15" src="#lekplatsen_img" ></a-image>
+        </a-entity>
+      </a-camera>
+    </a-scene>
+  </body>
+  <script>
+
+
+    let places = null;
+    let cameraPlate = null; 
+    let cameraTextPlace = null; 
+    let cameraTextDistance = null;
+    let cameraPlateImage = null;
+
+      window.onload = () => {
+          places = getPlaces();
+          addPlacesToScene(places);
+
+          cameraPlate = document.getElementById('cameraTextPlate');
+          cameraTextPlace = document.getElementById('cameraTextPlace');
+          cameraTextDistance = document.getElementById('cameraTextDistance');
+          cameraPlateImage = document.getElementById('cameraPlateImage');
+
+      };
+
+      function getPlaces() {
+    return [
+    {
+            name: 'lekplatsen',
+            displayName: 'Lekplatsen',
+            img: 'lekplatsen_img',
+            location: {
+                lat:  56.837500,
+                lng: 12.601533,
+            }
+        },
+    {
+            name: 'midsommar',
+            displayName: 'Midsommarstang',
+            img: 'midsommar_img',
+            location: {
+                lat:  56.835922,
+                lng: 12.600683,
+            }
+        },
+    {
+            name: 'fiskarerik',
+            displayName: 'Fiskar-Erik',
+            img: 'fiskarerik_img',
+            location: {
+                lat:  56.833074,
+                lng: 12.587764,
+            }
+        },
+    {
+            name: 'livbojen',
+            displayName: 'Livbojen',
+            img: 'livbojen_img',
+            location: {
+                lat:  56.830317,
+                lng: 12.597824,
+            }
+        },
+        {
+            name: 'utsikten',
+            displayName: 'Utsikten',
+            img: 'utsikten_img',
+            location: {
+                lat:  56.835808,
+                lng: 12.589898,
+            }
+        },
+      {
+            name: 'brunnslocket',
+            displayName: 'Brunnslocket',
+            img: 'brunnslocket_img',
+            location: {
+                lat: 56.835719,
+                lng: 12.606796,
+            }
+        },
+        {
+            name: 'groddammen',
+            displayName: 'Groddammen',
+            img: 'groddammen_img',
+            location: {
+                lat: 56.832754,
+                lng: 12.599374,
+            }
+        },
+        {
+            name: 'stenen',
+            displayName: 'Stenen',
+            img: 'stenen_img',
+            location: {
+                lat:  56.836265,
+                lng: 12.583309,
+            }
+        },
+    ];
+}
+function addPlacesToScene(places) {
+  let scene = document.querySelector('a-scene');
+
+    places.forEach((place) => {
+        let latitude = place.location.lat;
+        let longitude = place.location.lng;
+
+        let model = document.createElement('a-entity');
+        model.setAttribute('gps-entity-place', `latitude: ${latitude}; longitude: ${longitude};`);
+        model.setAttribute('scale', '80 80 80');
+        model.setAttribute('look-at', '[gps-camera]');
+        model.setAttribute('id', place.name);
+
+        let image = document.createElement('a-image');
+        image.setAttribute('src','#'+place.img);           
+        let text = document.createElement('a-text');
+        text.setAttribute('id',place.name+'Distance');
+        text.setAttribute('value','far');
+        text.setAttribute('color','#efefef');
+        text.setAttribute('position','-0.3 -0.3 0.5');
+        text.setAttribute('zOffset','0.001');
+
+        model.appendChild(image);
+        model.appendChild(text);
+        model.addEventListener('loaded', () => {
+            window.dispatchEvent(new CustomEvent('gps-entity-place-loaded'))
+        });
+/*
+
+        <a-entity
+      id="lekplatsenEntity" 
+      look-at="[gps-camera]"
+      scale="120 120 120"
+      gps-entity-place="latitude: 56.835922; longitude: 12.600683"                    
+      >
+        <a-image src="#lekplatsen_img"
+        ></a-image>
+        <a-text id="lekplatsenDistance" value="100m" color="#efefef"
+        position="-0.3 -0.3 0.5"
+        zOffset="0.001">
+        >
+        </a-text>
+      </a-entity>
+*/
+
+        scene.appendChild(model);
+    });
+
+    function updateDistances(){
+      let placeNearby = false;
+      places.forEach((place) => {
+        let entity = document.getElementById(place.name);
+        if( entity != null ) {
+            const distanceMsg = entity.getAttribute('distanceMsg');
+          let distMsgArray = distanceMsg.split(" ");
+          let dist = distMsgArray[0];
+          let unit = distMsgArray[1];
+          let displayUnit = "m";
+          if (unit === "kilometers") {
+            displayUnit = "km";
+          }
+          document.getElementById(place.name+'Distance').setAttribute("value", dist + displayUnit);
+
+
+          if( parseInt(dist) < 80 && displayUnit === "m" ) {
+            console.log('hide ' + place.name)<
+              // close, move to camera. 
+              entity.setAttribute("visible",false);
+              cameraPlate.setAttribute("visible",true);
+              cameraTextPlace.setAttribute("visible",true);
+              cameraTextDistance.setAttribute("visible",true);
+              cameraPlateImage.setAttribute("visible", true);
+              placeNearby = true;
+              cameraTextPlace.setAttribute("value",place.displayName);
+              cameraTextDistance.setAttribute("value",dist+"m");
+              entity.parentNode.removeChild(entity);
+              cameraPlateImage.setAttribute("src", '#'+place.img);
+          } else {
+            entity.setAttribute("visible",true);     
+            console.log('show ' + place.name);   
+          }
+
+        }
+      });
+
+      if (placeNearby == false) {
+        cameraPlate.setAttribute("visible",false);
+        cameraTextPlace.setAttribute("visible",false);
+        cameraTextDistance.setAttribute("visible",false);
+      }
+    }
+
+    let t = 0;
+    function render() {
+      console.log("render");
+      t += 1;
+      if (t > 50 ) {
+        console.log("t>50");
+        t = 0;
+        updateDistances();
+      }
+      requestAnimationFrame(render);
+
+    }
+    render();
+
+}
+  </script>
+</html>

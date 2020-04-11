@@ -72,11 +72,11 @@
           }, {
             position: new google.maps.LatLng(56.832754, 12.599374),
             type: 'rabbit', 
-            title: "Groddammen"
+            title: "Groddammen<br>- Lätt att hitta, men titta noga!"
           }, {
             position: new google.maps.LatLng(56.835719, 12.606796),
             type: 'rabbit', 
-            title: "Brunnslocket Rodendendronparken"
+            title: "Brunnslocket Rodendenronparken"
           }
         ];
 
@@ -91,7 +91,7 @@
           marker.addListener('click', function() {
 
             var contentString = 
-              '<h2 id="firstHeading" class="firstHeading">' + this.getTitle() + '</h2>';
+              '<h2">' + this.getTitle() + '</h2>';
       marker.t
             infoWindow.setContent(contentString);            
             infoWindow.open(map, this);
