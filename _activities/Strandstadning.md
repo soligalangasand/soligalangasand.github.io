@@ -6,7 +6,7 @@ when: 2020-06-07 10:00
 
 Samling kl 10.00 vid Långasandsparkeringen.
 
-Observera den senarelagda starten för årets strandstädning! 
+Observera det senarelagda datumet för årets strandstädning! 
 
 Efter städningen bjuder vi på dricka och om det fungerar som vanligt även grillkorv med bröd.<br>Medtag egna arbetshandskar.
 

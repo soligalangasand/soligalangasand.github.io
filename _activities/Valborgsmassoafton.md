@@ -24,7 +24,11 @@ OBS! Fastighetsägareföreningen arrangerar brasan, eget ris kan tyvärr inte l�
 <img width="657" height="449" class="wp-image-538 alignleft" src="/assets/images/Valborg-map.png" />
 
 --> 
-&nbsp;
+
+<br>
+
 <div class="center">
     <img width="800" src="/assets/images/Valborg_2019.jpg" />
 </div>
+
+<br>
