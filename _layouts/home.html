@@ -102,6 +102,24 @@ layout: default
               </div>
             </div>
 
+          <!-- Trails -->
+          <div class="col-lg-6 col-md-6 col-xs-12 text-center mb-4">
+            <div class="card mb-4">
+              <img class="card-photo-top" src="assets/images/klovastigen.jpg" alt="vandringsstigar">
+              <div class="card-body">
+                <h2 class="card-title">Promenad och vandringsstigar</h2>
+                <ul class="list-group list-group-flush no-bullet">
+                  {% for article in site.trails %}
+                  <li><a href="{{ article.url }}">{{ article.title }}</a></li>
+                  {% endfor %}
+                </ul>
+                <ul class="list-group list-group-flush no-bullet">
+                  <li class="italic">Tipsa gärna oss gärna om din favoritstig!</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
       </div>
   </div>
 </div>

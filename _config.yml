@@ -35,6 +35,8 @@ collections:
     output: true
   organisation:
     output: true
+  trails:
+    output: true
 
 defaults:
   - scope:
@@ -55,6 +57,11 @@ defaults:
   - scope:
       path: ""
       type: informations
+    values:
+      layout: "article"
+  - scope:
+      path: ""
+      type: trails
     values:
       layout: "article"
 
