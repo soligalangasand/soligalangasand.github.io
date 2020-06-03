@@ -1,7 +1,19 @@
 ---
-title: Strandstädning
+title: 'Inställt: Strandstädning'
 when: 2020-06-07 10:00 
 ---
+
+<h1>Årets strandstädning inställd</h1>
+
+Stranden är i ett mycket bra skick i år med väldigt lite "skräp" att plocka. 
+
+Med den fina stranden och med COVID-19 i åtanke har vi beslutat att inte genomföra en gemensam aktivitet för städning i år. 
+
+Hoppas vi ses på vår vacka strand senare i sommar!
+
+<i>Obs! Kommunens städning genomsförs i vanlig ordning. </i>
+
+<!-- 
 <h1>STRANDSTÄDNING - SÖNDAGEN DEN 7 JUNI</h1>
 
 Samling kl 10.00 vid Långasandsparkeringen.
@@ -14,11 +26,18 @@ Vi tackar den trogna skara som varje år är med och städar stranden.
 Det är inte tungt eller smutsigt men väldigt gemytligt när vi är färdiga.
 
 <h2>Bilder från tidigare städning</h2>
+-->
+
+<br>
 
 <img width="160" height="120" class="alignright size-full wp-image-60" alt="040424-01" src="/assets/images/040424-01.jpg" />
 <img width="160" height="120" class="alignright size-full wp-image-61" alt="040424-02" src="/assets/images/040424-02.jpg" />
 <img width="160" height="120" class="alignright size-full wp-image-62" alt="040424-03" src="/assets/images/040424-03.jpg" />
 
+<br>
+
+<!-- 
 Det brukar vara ett 40-tal personer som ställer upp - Kom du också!
+-->
 
 Arrangör: Långasands Fastighetsägareförening
