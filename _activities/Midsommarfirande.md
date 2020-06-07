@@ -1,40 +1,9 @@
 ---
-title: Midsommarfirande
+title: 'Inställt: Midsommarfirande'
 when: 2020-06-19 15:00 
 ---
-<h1>Midsommarfirande - 2020</h1>
-<table>
-<tbody>
-<tr>
-<td>TID</td>
-<td>Fredagen den 19 juni, kl 10.00 - 16.00</td>
-</tr>
-<tr>
-<td>PLATS</td>
-<td>På ängen vid Strandstugan - "Krogen i Långasand"</td>
-</tr>
-<tr>
-<td align="center" colspan="2"><strong>Några hålltider</strong></td>
-</tr>
-<tr>
-<td>10.00</td>
-<td>Lövhämtning med traktor och vagn</td>
-</tr>
-<tr>
-<td>ca 10.30</td>
-<td>Stången smyckas</td>
-</tr>
-<tr>
-<td>15.00</td>
-<td>Midsommarstången reses
-Dans och lekar runt stången
-Lotterier</td>
-</tr>
-</tbody>
-</table>
-Fastighetsägareföreningen i Långasand har under många år anordnat midsommarfirande.
+<h1>Vårt traditionsenliga midsommarfirande är inställt i år.</h1> 
 
-Det blir musik och dans. Lotterier, glass till barnen.
+På grund av rådande omständigheter och Folkhälsomyndighetens rekommendationer har vi beslutat att inte genomföra årets midsommarfirande. 
 
-<!-- Restaurang Strandstugan är öppen. -->
-<h3>VÄLKOMMEN!</h3>
+Tipspromenaden på midsommardagen arrangerar vi i vanlig ordning, väl mött där!
