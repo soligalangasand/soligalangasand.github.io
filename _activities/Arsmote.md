@@ -9,9 +9,9 @@ when: 2020-07-15 16:30
 **Tid**: 16.30  
 **Plats**: Digitalt möte med utgångspunkt från Långasand.
 
-Adress till mötet (Google meets) 
-<a href="meet.google.com/axg-quox-txc">meet.google.com/axg-quox-txc</a>  
-Telefonnummer: 08-505 458 97
+Det går att deltaga på mötet via video på Google Meets eller ringa in med telefon. 
+
+Detaljer för inloggning kommer läggas ut dagen före mötet. 
 
 **Obs! Om du inte har ett gmail-konto kan du bara ansluta till video via webbläsaren i din dator inte med mobiltelefon. Det går dock bra att ringa in med eller utan gmail-konto på telefonnumret ovan.**
 
