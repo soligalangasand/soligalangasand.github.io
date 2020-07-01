@@ -35,9 +35,9 @@ Varmt välkomna till årsmöte med Långasands fastighetsägareförening!
 §12 I förekommande fall val av ordförande i styrelsen  
 §13 Val av två revisorer  
 §14 Val av valberedning  
-§16 Motioner  
-$17 Övriga frågor (tas upp till behandling endast med mötets medgivande)   
-§18 Mötet avslutas  
+§15 Motioner  
+$16 Övriga frågor (tas upp till behandling endast med mötets medgivande)   
+§17 Mötet avslutas  
 
 Välkomna.  
 Styrelsen
