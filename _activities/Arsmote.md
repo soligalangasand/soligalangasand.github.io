@@ -9,15 +9,16 @@ when: 2020-07-15 16:30
 **Tid**: 16.30  
 **Plats**: Digitalt möte med utgångspunkt från Långasand.
 
-Det går att deltaga på mötet via video på Google Meets eller ringa in med telefon. 
+Det går att delta i mötet via video eller ringa in med telefon. 
 
-Detaljer för inloggning kommer läggas ut dagen före mötet. 
+Var med på video via Google meets här: <a href="https://meet.google.com/axg-quox-txc">**https://meet.google.com/axg-quox-txc**</a>  
+Eller ring in på telefon: **08 505 458 97‬** Pinkod: **‪823 838 469‬#**
 
 **Obs! Om du inte har ett gmail-konto kan du bara ansluta till video via webbläsaren i din dator inte med mobiltelefon. Det går dock bra att ringa in med eller utan gmail-konto på telefonnumret ovan.**
 
 ### PROGRAM
 
-Varmt välkomna till årsmöte med Långasands fastighetsägareförening!
+Varmt välkomna till årsmöte med Långasands Fastighetsägareförening!
 
 #### Dagordning 
 
@@ -38,6 +39,12 @@ Varmt välkomna till årsmöte med Långasands fastighetsägareförening!
 §15 Motioner  
 $16 Övriga frågor (tas upp till behandling endast med mötets medgivande)   
 §17 Mötet avslutas  
+
+### Dokument
+
+<a href="/assets/documents/Verksamhetsberättelse för Långasands Fastighetsägareförening 2019.pdf">Verksamhetsberättelse 2019 (pdf)</a>  
+<a href="/assets/documents/resultatrapport_2019.pdf">Resultatrapport 2019 (pdf)</a>  
+<a href="/assets/documents/balansrapport_2019.pdf">Balansrapport 2019 (pdf)</a>  
 
 Välkomna.  
 Styrelsen
