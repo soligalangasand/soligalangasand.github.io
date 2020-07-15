@@ -1,6 +1,7 @@
 ---
 title: Sandbyggartävling
-when: 2020-07-18 14:00 
+when: 2020-07-18 10:00 
+end: '- 19'
 ---
 # SANDBYGGARTÄVLING - 2020
 
