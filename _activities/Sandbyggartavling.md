@@ -2,22 +2,28 @@
 title: Sandbyggartävling
 when: 2020-07-18 14:00 
 ---
-<h1>SANDBYGGARTÄVLING - 2020</h1>
-<strong>Lördag den 18 juli</strong>
-<ul>
- 	<li>Anmälan kl 13:30</li>
- 	<li>Byggstart kl 14:00</li>
- 	<li>Slut byggt kl 15:30</li>
-</ul>
-<h3>Regler</h3>
-Skriftlig gruppanmälan på stranden, från kl. 13.30. 
+# SANDBYGGARTÄVLING - 2020
 
-Ett lag består av max fem personer, varav en får vara vuxen. Medtag egna spadar och hinkar. Till bygget får endast användas sådant som finns på stranden. 
+Med anledning av rådande omständigheter kommer årets sandbyggartävling genomföras på följande sätt:
 
-Juryn kommer att bedömma fantasirikedom och konstnärlighet. 
+**När:** Välj någon lämplig tidpunkt och plats under helgen den 18-19 juli 2020 (håll avstånd om flera lag råkar bygga samtidigt!)  
 
-Prisutdelning sker direkt när tävlingen är avslutad. Diplom och glass till startande. Vid ösregn ställs tävlingen in.
+**Lag:** max 5 personer  
+
+**Byggtid:** 1,5 timme
+
+**Tävlingsgrupper**
+1. upp till 12 år
+2. 13-17 år
+3. 18 år och uppåt
+
+**Inlämning av tävlingsbidrag:** Maila foto av konstverket, namn och ålder på deltagarna samt telefonnummer till ordforande@langasand.se
+
+**Jury:** Konstverken kommer att bedömas utifrån fantasirikedom och konstnärlighet.  
+
+**Prisutdelning:** Vinnarna kontaktas via telefon den 20 juli
 
 Inspiration kan hämtas från föregående års tävlingar. Bilder på vår Facebook-sida här: <a href="https://www.facebook.com/media/set/?set=a.1507193269328859.1073741828.693299794051548&amp;type=1&amp;l=995880b25f">Soliga Långasand - Sandbyggartävling 2017</a>
-<h3>Arrangör</h3>
-<strong>Långasands Fastighetsägareförening</strong>
+
+## Arrangör
+**Långasands Fastighetsägareförening**
