@@ -39,5 +39,9 @@ c/o Thérèse Troedsson, Industrigatan 8, 112 46 STOCKHOLM
     <td valign="top"><strong>Ledamot</strong>
     Lena Brännström, Ringstraststigen 14</td>
 </tr>
+<tr>
+    <td valign="top"><strong>Ledamot</strong>
+    Johan Asklund, Långasand 102</td>
+</tr>
 </tbody>
 </table>
