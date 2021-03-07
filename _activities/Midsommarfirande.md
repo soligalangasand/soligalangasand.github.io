@@ -1,9 +1,20 @@
 ---
-title: 'Inställt: Midsommarfirande'
-when: 2020-06-19 15:00 
+title: 'Midsommarfirande'
+when: 2021-06-25 15:00
 ---
-<h1>Vårt traditionsenliga midsommarfirande är inställt i år.</h1> 
+<h1>Vårt traditionsenliga midsommarfirande!</h1>
 
-På grund av rådande omständigheter och Folkhälsomyndighetens rekommendationer har vi beslutat att inte genomföra årets midsommarfirande. 
+Vi återkommer kring årets midsommarfirande i början på juni.
 
-Tipspromenaden på midsommardagen arrangerar vi i vanlig ordning, väl mött där!
+Tipspromenaden på midsommardagen arrangeras i vanlig ordning, väl mött där!
+
+<br>
+
+<div class="center">
+    <img width="800" src="/assets/images/niklas-veenhuis-Q0AXQ8UctBc-unsplash.jpg" />
+</div>
+<div class="center">
+    <span>Photo by <a href="https://unsplash.com/@niklasveenhuis?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Niklas Veenhuis</a> on <a href="https://unsplash.com/s/photos/midsommar?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+</div>
+
+<br>

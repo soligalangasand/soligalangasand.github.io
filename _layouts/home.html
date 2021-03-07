@@ -8,7 +8,8 @@ layout: default
 <div class="home">
 
   <h1 class="center pt-2">Välkomna till Soliga Långasand!</h1>
-  <h2 class="center pt-1 px-1">Vår planering för årets aktiviteter är som alla förstår dynamisk och vi ber om förståelse för förändringar i det program som presenteras nedan. </h2>
+  <h2 class="center pt-1 px-1">Vi planerar för fullt årets aktiviteter, vissa traditioner behöver vi skjuta framför oss, andra kommer vi med varianter på så att vi kan få ett trevligt år tillsammans.</h2>
+  <h2 class="center pt-1 px-1"> Precis som förra året så hoppas vi på förståelse för ev förändringar då vi följer de rekommendationer och råd som gäller för vår region.</h2>
 
   <div class="section">
       <div class="row">
@@ -18,10 +19,10 @@ layout: default
           <div class="card mb-4">
             <img class="card-img-top" src="assets/images/pic1.jpg" alt="Aktiviteter">
             <div class="card-body">
-              <h2 class="card-title">Aktiviteter</h2>
+              <h2 class="card-title">Aktiviteter 2021</h2>
               <ul class="list-group no-bullet">
                 {% assign sorted = site.activities | sort: 'when' %}
-                {% for activity in sorted %} 
+                {% for activity in sorted %}
                   {% if activity.visible != false %}
                   <li><a href="{{ activity.url }}">{{ activity.title }}</a> {{activity.when  | date: "%b %d" }} {{activity.end}} </li>
                   {% endif %}
@@ -38,16 +39,16 @@ layout: default
             <div class="card-body">
               <h2 class="card-title">Frukostföreläsningar</h2>
               <p class="px-1">
-                Vi har valt att inte genomföra frukostföreläsninganra i år på grund av rådande omständigheter. 
+                Beslut kring genomförande av fruktostföreläsningar kommer under våren!
               </p>
               <p class="px-1">
-                Nästa år är konceptet säkerligen tillbaka och vill du 2021 presentera det du jobbar med, eller brinner för, hör av dig på mail till Thérèse Troedsson: 
+                Vill du presentera det du jobbar med, eller brinner för, hör av dig på mail till Thérèse Troedsson:
                 <a href="mailto:ordforande@langasand.se?Subject=Anmälan%20frukostföreläsning" target="_top">ordforande@langasand.se</a>
               </p>
               <!--
               <ul class="list-group no-bullet">
                 {% assign sorted = site.breakfast_meetings | sort: 'when' %}
-                {% for meeting in sorted %} 
+                {% for meeting in sorted %}
                   {% if meeting.visible != false %}
                   <li><a href="{{ meeting.url }}">{{ meeting.title }}</a> {{meeting.when  | date: "%b %d" }}</li>
                   {% endif %}
@@ -73,7 +74,7 @@ layout: default
                     <li><a href="http://www.vagforening.com/ullarp-skallentorp">Ullarp-Skällentorp Vägförening</a></li>
                     <li><a href="http://www.samfallighet.com/langasand">Långasands Samfällighetsförening</a></li>
                     <li><a href="https://www.ugglarpsbyalag.se/">Ugglarps Byalag</a></li>
-                    
+
                 </ul>
               </div>
             </div>

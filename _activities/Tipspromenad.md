@@ -1,11 +1,11 @@
 ---
 title: Tipspromenad
-when: 2020-06-20 14:00 
+when: 2021-06-26 14:00
 ---
 <h1>Tipspromenad midsommardagen</h1>
 <span>För hela familjen, kluriga barn- och vuxenfrågor, sträckning runt Långasand. </span>
 
-Datum 2020 06 20.
+Datum 2021 06 26.
 
 Start: Strandstugan mellan kl: 14:00-18:00.
 

@@ -1,22 +1,13 @@
 ---
 title: 'Påskjakt'
-when: 2020-04-11 12:00 
+when: 2021-04-05 12:00
 ---
 # Påskjakt i Långasand!
-
-
-## Påskjakten är avslutad, tack alla som deltog!
 
 <strong>När: Påskafton till Annandag påsk</strong><br>
 <strong>Var: Långasandsområdet</strong>
 
-Långasandskaninerna har gömt sommarens bokstäver!
-Hitta dom, bilda ett ord och maila till <a href="mailto:paskjakt@langasand.se">paskjakt@langasand.se</a>
-
-Fina priser (t-shirts och kassar) lottas ut till de som hittar rätt. 
-
-OBS! Det räcker att leta med ögonen, ta inte med någon ledtråd!
-Håll rekommenderat avstånd i dessa tider, vänta lite om det skulle bli trångt :)  
+Förra årets uppskattade påskjakt återkommer i år. Detaljer hittar du här och på Facebook i påskveckan.
 
 <br>
 
@@ -25,5 +16,3 @@ Håll rekommenderat avstånd i dessa tider, vänta lite om det skulle bli trång
 </div>
 
 <br>
-
-
