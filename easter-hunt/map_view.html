@@ -22,7 +22,7 @@
     <div id="map"></div>
     <script>
       var map;
-      var infoWindow; 
+      var infoWindow;
 
       function initMap() {
         map = new google.maps.Map(
@@ -43,40 +43,48 @@
           }
         };
 
-        
+
         var features = [
           {
-            position: new google.maps.LatLng(56.837500, 12.601533),
+            position: new google.maps.LatLng(56.82841180356974, 12.601509001004542),
             type: 'rabbit',
-            title: "Lekplatsen - Rutschkanan"
+            title: "Södra utedasset",
+            details: 'Bra att känna till.'
           }, {
-            position: new google.maps.LatLng(56.835922, 12.600683),
+            position: new google.maps.LatLng(56.8307944, 12.6067089),
             type: 'rabbit',
-            title: "Midsommarstången"
+            title: "Brantastigen",
+            details: 'Var försiktig!'
           }, {
-            position: new google.maps.LatLng(56.833074, 12.587764),
+            position: new google.maps.LatLng(56.8310973, 12.6077744),
             type: 'rabbit',
-            title: "Fiskar-Eriks båtklubb"
+            title: "Bänken",
+            details: '<strong>Å</strong> vilken fin utsikt!'
           }, {
-            position: new google.maps.LatLng(56.830317, 12.597824),
-            type: 'rabbit', 
-            title: "Livbojen"
+            position: new google.maps.LatLng(56.834033271042486, 12.587384791017216),
+            type: 'rabbit',
+            title: "Fiskenätet",
+            details: 'Gamla stolpar.'
           }, {
-            position: new google.maps.LatLng(56.835808, 12.589898),
-            type: 'rabbit', 
-            title: "Utsikten"
+            position: new google.maps.LatLng(56.8371434, 12.6014790),
+            type: 'rabbit',
+            title: "Gymmet",
+            details: 'Tack Långasands idrottsförening!'
           }, {
-            position: new google.maps.LatLng(56.836265, 12.583309),
-            type: 'rabbit', 
-            title: "Stenen"
+            position: new google.maps.LatLng(56.8378396, 12.6015400),
+            type: 'rabbit',
+            title: "Boulebanan",
+            details: 'Information.'
           }, {
-            position: new google.maps.LatLng(56.832754, 12.599374),
-            type: 'rabbit', 
-            title: "Groddammen"
+            position: new google.maps.LatLng(56.83914071276899, 12.607761038738666),
+            type: 'rabbit',
+            title: "Vägen",
+            details: "Första bokstaven."
           }, {
-            position: new google.maps.LatLng(56.835719, 12.606796),
-            type: 'rabbit', 
-            title: "Brunnslocket Rodendendronparken"
+            position: new google.maps.LatLng(56.8326382, 12.5941659),
+            type: 'rabbit',
+            title: "Klockan",
+            details: 'Går den rätt?'
           }
         ];
 
@@ -85,17 +93,21 @@
           var marker = new google.maps.Marker({
             position: features[i].position,
             icon: icons[features[i].type].icon,
-            map: map, 
-            title: features[i].title
+            map: map,
+            title: features[i].title,
+            details: features[i].details
           });
           marker.addListener('click', function() {
 
-            var contentString = 
-              '<h2 id="firstHeading" class="firstHeading">' + this.getTitle() + '</h2>';
+            var contentString =
+              '<div id="content">' +
+                '<h2 id="firstHeading" class="firstHeading">' + this.getTitle() + '</h2>' +
+                this?.details +
+              '</div>';
       marker.t
-            infoWindow.setContent(contentString);            
+            infoWindow.setContent(contentString);
             infoWindow.open(map, this);
-          });          
+          });
         };
       }
     </script>
