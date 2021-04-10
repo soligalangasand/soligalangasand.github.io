@@ -7,7 +7,7 @@ when: 2021-05-01 12:00
 <strong>När: 1a maj</strong><br>
 <strong>Var: Långasand, längs naturstigen</strong>
 
-Längs med vår fina naturstig annordnar vi i år en tipspromenad.
+Längs med vår fina naturstig anordnar vi i år en tipspromenad.
 
 Detaljer återkommer vi med!
 
