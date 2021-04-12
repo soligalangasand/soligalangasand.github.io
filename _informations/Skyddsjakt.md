@@ -4,10 +4,8 @@ title: Skyddsjakt
 <h1>Skyddsjakt</h1>
 Har ni problem med skadedjur vid er fastighet?
 
-Enligt gällande regler ringer fastighetsägare till kommunen (miljö &amp; hälsa).
+Enligt gällande regler ringer fastighetsägare till kommunen.
 
-När du behöver hjälp med skyddsjakt kan du ringa:
-
-Jeff Karlsson: <a href="tel:0729415225" target="_blank">0729-41 52 25</a>.
-
-Fastighetsägaren betalar alltid direkt till jägaren.
+[Miljö och hälsoskyddsförvaltningen i Falkenberg](https://kommun.falkenberg.se/kommun/kommunensorganisation/forvaltningar/miljoochhalsoskyddsforvaltningen)
+miljo.halsa@falkenberg.se
+Telefon: 0346-88 60 00
