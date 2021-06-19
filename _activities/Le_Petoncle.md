@@ -4,14 +4,14 @@ when: 2021-07-14 17:00
 ---
 <h1 class="aligncenter">Le Pétoncle - 2021</h1>
 
-Vi hoppas på att kunna genomföra vår årliga bouletävling som går av stapeln på Frankrikes nationaldag, den 14e juli.
+Vi planerar att genomföra vår årliga bouletävling som går av stapeln på Frankrikes nationaldag, den 14e juli.
+
+Tävlingen avgörs på Pétanque-banorna bredvid lekplatsen och fotbollsplanen på Långasandsvägen.
 
 Mer detaljer kommer när vi närmar oss!
 
 <!--
 På Frankrikes nationaldag, den 14 juli, avgörs Långasands årliga Petanque-turnering, eller boule-tävling som vi oftast kallar det lokalt.
-
-Tävlingen avgörs på Pétanque-banorna bredvid lekplatsen och fotbollsplanen på Långasandsvägen.
 
 Vi spelar dubbel. I anmälningsavgiften (100:-/lag) ingår lättare tilltugg på franskt tema.
 Kylda drycker säljes till självkostnadspris. Anmälningsavgiften betalas kontant eller via Swish på plats. Vinnaren går därifrån med äran och prispengar, som utgörs av anmälningsavgifterna.

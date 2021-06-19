@@ -1,10 +1,10 @@
 ---
-title: 'Midsommarfirande'
+title: 'Inställt: Midsommarfirande'
 when: 2021-06-25 15:00
 ---
 <h1>Vårt traditionsenliga midsommarfirande!</h1>
 
-Vi återkommer kring årets midsommarfirande i början på juni.
+Även i år får vi tyvärr ställa in det gemensamma midsommarfirandet pga de restriktioner som gäller.
 
 Tipspromenaden på midsommardagen arrangeras i vanlig ordning, väl mött där!
 

@@ -4,7 +4,7 @@ when: 2021-07-20 kl 16:30
 ---
 # Årsmöte - 2021
 
-Detaljer kring årsmötet 2021 kommer publiceras under juni månad.
+Detaljer kring årsmötet 2021 kommer publiceras i början av juli månad.
 
 <!--
 ## Kallelse till årsmöte

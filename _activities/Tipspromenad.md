@@ -1,5 +1,5 @@
 ---
-title: Tipspromenad
+title: Tipspromenad midsommardagen
 when: 2021-06-26 14:00
 ---
 <h1>Tipspromenad midsommardagen</h1>
@@ -7,7 +7,7 @@ when: 2021-06-26 14:00
 
 Datum 2021 06 26.
 
-Start: Strandstugan mellan kl: 14:00-18:00.
+Start mellan 14:00-18:00.
 
 Start och mål vid Strandstugan.
 

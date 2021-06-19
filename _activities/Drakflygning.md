@@ -1,14 +1,20 @@
 ---
-title: Sandbyggartävling
-when: 2021-07-17 14:00
+title: Drakflygning
+when: 2021-07-26 15:00
+end: '- 31'
 ---
-# SANDBYGGARTÄVLING - 2021
+# Drakflygning
 
-Detaljer om årets strandbyggartävling återkommer vi med!
+En eftermiddag med lagom vind flyger vi drake på någon av våra strandängar.
+
+Priser kommer delas ut och förhoppningsvis får vi en vacker himmel med många roliga drakar att titta på!
+
+Detaljer om dag, tid och kategorier för priserna kommer vi återkomma med när vi närmar oss. :)
 
 <div class="center my-3">
-    <img class="px-1 pt-1" width="400" src="/assets/images/sandodla.jpg" />
-    <img class="px-1 pt-1" width="400" src="/assets/images/sandkrabba.jpg" />
+    <img width="910" src="/assets/images/aaron-burden-O0p6aV9Go3Y-unsplash.jpg" />
+    <p>Photo by <a href="https://unsplash.com/@aaronburden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Aaron Burden</a> on <a href="https://unsplash.com/s/photos/kite?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  </p>
 </div>
 
 <!--
