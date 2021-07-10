@@ -1,25 +1,18 @@
 ---
 title: 'Bouletävling: Le Pétoncle'
-when: 2021-07-14 17:00
+when: 2021-07-14 18:00
 ---
 <h1 class="aligncenter">Le Pétoncle - 2021</h1>
 
-Vi planerar att genomföra vår årliga bouletävling som går av stapeln på Frankrikes nationaldag, den 14e juli.
-
-Tävlingen avgörs på Pétanque-banorna bredvid lekplatsen och fotbollsplanen på Långasandsvägen.
-
-Mer detaljer kommer när vi närmar oss!
-
-<!--
-På Frankrikes nationaldag, den 14 juli, avgörs Långasands årliga Petanque-turnering, eller boule-tävling som vi oftast kallar det lokalt.
+På Frankrikes nationaldag, den 14 juli, avgörs Långasands årliga Petanque/boule-turnering.
 
 Vi spelar dubbel. I anmälningsavgiften (100:-/lag) ingår lättare tilltugg på franskt tema.
-Kylda drycker säljes till självkostnadspris. Anmälningsavgiften betalas kontant eller via Swish på plats. Vinnaren går därifrån med äran och prispengar, som utgörs av anmälningsavgifterna.
+Kylda drycker säljes till självkostnadspris. Anmälningsavgiften betalas med Swish på plats. Vinnaren går därifrån med äran och prispengar, som utgörs av anmälningsavgifterna.
 
-De första matcherna spelas kl 17:00.
+De första matcherna spelas kl 18:00.
 
-Föranmälan görs till Carl Tönsgård via sms (0703 14 01 05) eller via mail på <a href="mailto:carl.tonsgard+boule@gmail.com?Subject=Anmälan%20boule" target="_top">carl.tonsgard+boule@gmail.com</a>. Anmäl dig senast kl 17:00 måndag 13 juli. Därefter sätter vi spelschemat och återkommer med exakta tider.
--->
+Föranmälan görs till Carl Tönsgård via sms (0703 14 01 05) eller via mail på <a href="mailto:carl.tonsgard@langasand.se?Subject=Anmälan%20boule" target="_top">carl.tonsgard@langasand.se</a>. Anmäl dig senast kl 18:00 tisdag 13 juli. Därefter sätter vi spelschemat och återkommer med exakta tider.
+
 <br>
 
 <div class="center">
