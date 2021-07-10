@@ -7,11 +7,15 @@ when: 2021-07-14 18:00
 På Frankrikes nationaldag, den 14 juli, avgörs Långasands årliga Petanque/boule-turnering.
 
 Vi spelar dubbel. I anmälningsavgiften (100:-/lag) ingår lättare tilltugg på franskt tema.
-Kylda drycker säljes till självkostnadspris. Anmälningsavgiften betalas med Swish på plats. Vinnaren går därifrån med äran och prispengar, som utgörs av anmälningsavgifterna.
+Kylda drycker säljes till självkostnadspris.
+
+Anmälningsavgiften betalas med Swish på plats. Vinnaren går därifrån med äran och prispengar, som utgörs av anmälningsavgifterna.
 
 De första matcherna spelas kl 18:00.
 
-Föranmälan görs till Carl Tönsgård via sms (0703 14 01 05) eller via mail på <a href="mailto:carl.tonsgard@langasand.se?Subject=Anmälan%20boule" target="_top">carl.tonsgard@langasand.se</a>. Anmäl dig senast kl 18:00 tisdag 13 juli. Därefter sätter vi spelschemat och återkommer med exakta tider.
+OBS! Anmäl ert lag senast kl 18 tisdag 13e juli till Carl Tönsgård via sms (0703 14 01 05) eller via mail på <a href="mailto:carl.tonsgard@langasand.se?Subject=Anmälan%20boule" target="_top">carl.tonsgard@langasand.se</a>.
+
+Spelschemat sätts när vi vet hur många som är med i årets upplaga och meddelas på tisdagskvällen.
 
 <br>
 
