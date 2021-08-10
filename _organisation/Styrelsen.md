@@ -12,36 +12,28 @@ c/o Thérèse Troedsson, Industrigatan 8, 112 46 STOCKHOLM
 <tbody>
 <tr>
     <td valign="top"><strong>Ordförande</strong>
-    Thérèse Troedsson, Trossnäsvägen 35</td>
-    <td valign="top">Tel: <a href="tel:0705395064">070-5395064</a>
+    Carl Tönsgård, Kullavägen 15</td>
+    <td valign="top">Tel: <a href="tel:0703140105">070-3140105</a>
     E-post: <a href="mailto:ordforande@langasand.se">ordforande@langasand.se</a></td>
 </tr>
 <tr>
     <td valign="top"><strong>Sekreterare</strong>
-    Marie Pettersson, Trossnäsvägen 32</td>
+    Jenny Julin</td>
     <td valign="top">E-post: <a href="mailto:sekreterare@langasand.se">sekreterare@langasand.se</a></td>
 </tr>
 <tr>
     <td valign="top"><strong>Kassör</strong>
-    Karin Hellberg
+    Lena Brännström, Ringstraststigen 14
     </td>
     <td valign="top">E-post: <a href="mailto:kassor@langasand.se">kassor@langasand.se</a></td>
 </tr>
 <tr>
     <td valign="top"><strong>Vice ordförande</strong>
-    Carl Tönsgård, Kullavägen 15</td>
+    Hans Andersson, Trossnäsvägen 24</td>
 </tr>
 <tr>
     <td valign="top"><strong>Ledamot</strong>
-    Hans Andersson, Trossnäsväg 24</td>
-</tr>
-<tr>
-    <td valign="top"><strong>Ledamot</strong>
-    Lena Brännström, Ringstraststigen 14</td>
-</tr>
-<tr>
-    <td valign="top"><strong>Ledamot</strong>
-    Johan Asklund, Långasand 102</td>
+    Ingrid Tönsgård</td>
 </tr>
 </tbody>
 </table>
