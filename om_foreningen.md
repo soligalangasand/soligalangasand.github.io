@@ -6,32 +6,20 @@ permalink: /about/
 
 # Långasands fastighetsägareförening
 
-Allt sedan vår förening bildades 1957 har vårt uppdrag varit att måna om Långasands karaktär av
-trivsam semesterort och tillgodose medlemmarnas intressen. Jag tror att vi alla kan vara överens om
-att såväl Långasand som övriga världen har förändrats en hel del sedan 1957.
+Långasands Fastighetsägareförening bildades 1957 har som uppdrag att måna om Långasands karaktär av
+trivsam semesterort och tillgodose medlemmarnas intressen.  
 
-Som jag ser det är föreningens uppdrag både att bevara och att utveckla. Nu har jag inte varit med
-sedan 1957, bara sedan 1971, men jag gissar att många med mig uppskattar de traditionsenliga
-aktiviteter vi arrangerar; strandstädning, midsommarfirande, sandbyggartävling mm. Samtidigt
-måste föreningens verksamhet utvecklas. Ett led i detta är en önskan om att kommunicera mer med
-er, våra medlemmar. För ungefär ett år sedan påbörjade vi en undersökning för att höra vad ni tycker
-att vi ska ägna oss åt. I påskas var vi också runt och pratade mer boenden, både med dem som är
-medlemmar och med dem som inte är medlemmar för att skapa kontaktytor.
+Föreningen arrangerar en rad av aktiviteter; strandstädning, midsommarfirande, sandbyggartävling mm. och vi i styrelsen letar ständigt nya sätt att öka trivsel och engagemang i området.    
 
-När det gäller aktiviteter försöker vi också att förnya oss. Nytt för i år är att sandbyggartävlingen
-utökas med en vuxenklass, eftersom vi förstått att det finns ett behov även bland vuxna att skapa i
-sand. En annan nyhet är frukostföreläsningar tisdag i juli, på Anne-Maries loge. Vi har bjudit in
-intressanta grannar, dina och mina, som har något inspirerande att prata om. Ämnena varierar allt
-ifrån digital hälsa till hembyggdföreningens verksamhet. Detta är för övrigt ett samarbete med
-Ugglarps Byalag.
+Nu har vi haft två somrar av annorlunda karaktär där vi tänkt om och tänkt nytt, vissa aktiviter har ställts in, andra har genomförts med justerat upplägg. Vi uppskattar stort ett fortsatt deltagande i nya tipspromenader, digitala versioner av påskjakter och sandbyggartävling med mera och hoppas vi återkommer till våra traditionsenliga firanden under 2022. 
 
-Vad skulle du vilja att föreningen ägnar sig åt? Kanske har du en aktivitet som skulle passa, eller vill
+Har du idéer om vad föreningen ska ägna sig åt? Kanske har du en aktivitet som skulle passa, eller vill
 engagera dig i styrelsearbetet?
 
 Hör av dig till någon i styrelsen. Kontaktuppgifterna uppgifterna finner du <a href="/organisation/Styrelsen.html">här.</a>
 
-Vi ses i sommar!
+Vi ses!
 
-Thérèse Troedsson
+Carl Tönsgård 
 
 Ordförande
