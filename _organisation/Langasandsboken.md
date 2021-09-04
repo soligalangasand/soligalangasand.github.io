@@ -6,8 +6,9 @@ title: Långasandsboken
 ![Långasandsboken](/assets/images/jubboken.jpg)
 
 ### Hämtpris i Långasand
-**Medlem 300 kronor**  
-**Ej medlem 350 kronor**
+Sänkt pris, fåtal exemplar kvar.  
+**Medlem ~~300~~ 200 kronor**  
+**Ej medlem  ~~350~~ 250 kronor**
 
 Beställ via mail <a target="_blank" href="mailto:ordforande@langasand.se">ordforande@langasand.se</a>
 eller telefon <a target="_blank" href="tel:0703-140105">0703-140105.</a>
