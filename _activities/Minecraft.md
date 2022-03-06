@@ -42,4 +42,7 @@ Hur:
 
 Om något krånglar skicka ett mail till minecraft@langasand.se så försöker vi hjälpa till!
 
-Notera: Juryn utses av Långasands Fastighetsägareförenings styrelse.
+Notera: Juryn utses av Långasands Byalag styrelse.
+
+## Arrangör
+**Långasands Byalag**

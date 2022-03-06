@@ -1,6 +1,7 @@
 ---
 title: Årsmöte
 when: 2021-07-26 kl 16:30
+visible: false
 ---
 # Årsmöte - 2021
 
@@ -19,7 +20,7 @@ fastighetsbeteckning till: arsmote@langasand.se
 
 ### PROGRAM
 
-Varmt välkomna till årsmöte med Långasands Fastighetsägareförening!
+Varmt välkomna till årsmöte med Långasands Byalag!
 
 #### Dagordning
 

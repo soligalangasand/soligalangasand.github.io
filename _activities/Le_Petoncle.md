@@ -25,5 +25,5 @@ Spelschemat sätts när vi vet hur många som är med i årets upplaga och medde
 
 <br>
 
-<h3>Arrangör</h3>
-<strong>Långasands Fastighetsägareförening</strong>
+## Arrangör
+**Långasands Byalag**
