@@ -41,4 +41,4 @@ Inspiration kan hämtas från föregående års tävlingar. Bilder på vår Face
 -->
 
 ## Arrangör
-**Långasands Fastighetsägareförening**
+**Långasands Byalag**

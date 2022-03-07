@@ -35,4 +35,4 @@ när tävlingen är avslutad. Glass till alla deltagare!
 </div>
 
 ## Arrangör
-**Långasands Fastighetsägareförening**
+**Långasands Byalag**

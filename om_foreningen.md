@@ -4,21 +4,22 @@ title: Om föreningen
 permalink: /about/
 ---
 
-# Långasands fastighetsägareförening
+# Om föreningen
 
-Långasands Fastighetsägareförening bildades 1957 har som uppdrag att måna om Långasands karaktär av
-trivsam semesterort och tillgodose medlemmarnas intressen.  
+Långasands Byalag har som syfte att skapa gemenskap och trivsel i Långasand med omnejd för såväl sommargäster som bofasta.
 
-Föreningen arrangerar en rad av aktiviteter; strandstädning, midsommarfirande, sandbyggartävling mm. och vi i styrelsen letar ständigt nya sätt att öka trivsel och engagemang i området.    
+Föreningen bildades 1957 under namnet Långasands Fastighetsägareförening, ett namn som användes till 2021 då föreningen bytte namn till Långasands Byalag. Detta för att bättre harmoniera med föreningens syfte och verksamhet som naturligt ändrat karaktär och utvecklats under åren. 
 
-Nu har vi haft två somrar av annorlunda karaktär där vi tänkt om och tänkt nytt, vissa aktiviter har ställts in, andra har genomförts med justerat upplägg. Vi uppskattar stort ett fortsatt deltagande i nya tipspromenader, digitala versioner av påskjakter och sandbyggartävling med mera och hoppas vi återkommer till våra traditionsenliga firanden under 2022. 
+Föreningen är arrangör och initiativtagare till flera olika aktiviteter och händelser i
+Långasand. Under många år har valborgsbrasa, midsommarfirande, strandstädning, sandbyggartävling med mera varit givna och vi i styrelsen letar ständigt nya sätt att öka trivsel och engagemang i området.
 
-Har du idéer om vad föreningen ska ägna sig åt? Kanske har du en aktivitet som skulle passa, eller vill
-engagera dig i styrelsearbetet?
+Utöver evenemang så underhåller vi spänger på våra gångstigar, arrangerar strandbingo och har en bokbytarhylla som du hittar i boden vid boulebanorna.
+
+Vi ser gärna att våra medlemmar är med och hjälper till vid våra arrangemang. Har du någon idé eller något du vill ska hända i Långasand? Vill du vara med och se till att vi får en fantastisk midsommar eller sandbyggartävling? Eller vill du engagera dig i styrelsearbetet?  
 
 Hör av dig till någon i styrelsen. Kontaktuppgifterna uppgifterna finner du <a href="/organisation/Styrelsen.html">här.</a>
 
-Vi ses!
+Vi ses i Soliga Långasand!
 
 Carl Tönsgård 
 

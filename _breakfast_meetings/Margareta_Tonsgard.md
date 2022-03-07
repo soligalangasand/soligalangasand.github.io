@@ -19,5 +19,4 @@ Hur: Enklare frukost ingår i avgiften på 50kr.<br>
 
 <hr class="my-2" />
 <p class="infotext" style="text-align: center"><strong>Arrangör:</strong>
-Långasands Fastighetsägareförening tillsammans med Ugglarps Byalag.</p>
-
+Långasands Byalag tillsammans med Ugglarps Byalag.</p>

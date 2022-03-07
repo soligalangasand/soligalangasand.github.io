@@ -41,4 +41,5 @@ Det är inte tungt eller smutsigt men väldigt gemytligt när vi är färdiga.
 Det brukar vara ett 40-tal personer som ställer upp - Kom du också!
 -->
 
-Arrangör: Långasands Fastighetsägareförening
+## Arrangör
+**Långasands Byalag**

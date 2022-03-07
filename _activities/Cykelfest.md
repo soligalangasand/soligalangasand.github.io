@@ -16,6 +16,6 @@ Kostnad: <strong>50kr</strong>
 
 Blir du sugen? Mer info: <a href="http://ugglarpsbyalag.se/cykelfest.html">ugglarpsbyalag.se</a>
 <h3>Arrangör</h3>
-<strong>Ugglarps byalag tillsammans med Långasands Fastighetsägareförening</strong>
+<strong>Ugglarps byalag tillsammans med Långasands byalag</strong>
 
 &nbsp;

@@ -1,6 +1,6 @@
 # License
 
-Copyright (c) 2019 Långasands Fastighetsägareförening
+Copyright (c) 2019 Långasands Byalag
 
 The content of this project itself is licensed under the Creative Commons Attribution NonCommercial NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license, and the underlying source code used to format and display that content is licensed under the MIT license.
 

@@ -17,7 +17,7 @@ Platsen för brasan och firandet är på ängen vid stora P-platsen Långasandsv
 <a href="/assets/images/Valborg.pdf">Sånghäfte Valborg</a>
 
 
-OBS! Fastighetsägareföreningen arrangerar brasan, eget ris kan tyvärr inte lämnas in.
+OBS! Byalaget arrangerar brasan, eget ris kan tyvärr inte lämnas in.
 
 &nbsp;
 
@@ -32,3 +32,6 @@ OBS! Fastighetsägareföreningen arrangerar brasan, eget ris kan tyvärr inte l�
 </div>
 
 <br>
+
+## Arrangör
+**Långasands Byalag**

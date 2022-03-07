@@ -87,7 +87,7 @@ visible: false
 <hr />
 <p class="infotext" style="text-align: center"><strong>Kaffeservering.</strong></p>
 <p class="infotext" style="text-align: center"><strong>Arrangör:</strong>
-Långasands Fastighetsägareförening</p>
+Långasands Byalag</p>
 <p class="infotext" style="text-align: center"><strong>Organisatör:</strong>
 Astrid Johansson
 Tel: <a href="tel:0730340982" target="_blank">0730-34 09 82</a></p>

@@ -1,11 +1,11 @@
 ---
 title: Styrelsen
 ---
-<h1>Långasands Fastighetsägareförening</h1>
+<h1>Långasands Byalag</h1>
 Org.nr: <strong>802431-0305</strong> Ideella föreningar
 
 <strong>Adress:</strong>
-c/o Thérèse Troedsson, Industrigatan 8, 112 46 STOCKHOLM
+c/o Carl Tönsgård, Kullavägen 15, 31196 HEBERG
 
 <strong>STYRELSE:</strong>
 <table>

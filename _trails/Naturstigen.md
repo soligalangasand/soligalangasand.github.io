@@ -11,7 +11,7 @@ title: Naturstigen
 
 # Naturstigen
 
-Här i Långasand pågår sedan 2008 ett naturvårdsprojekt med syftet att restaurera och bevara de öppna sandmarkerna. Detta genom ett samarbete mellan Länsstyrelsen och tre lokala föreningar (Fastighetsägareföreningen och Samfällighetsföreningen i Långasand samt Ullarp-Skällentorp vägförening).
+Här i Långasand pågår sedan 2008 ett naturvårdsprojekt med syftet att restaurera och bevara de öppna sandmarkerna. Detta genom ett samarbete mellan Länsstyrelsen och tre lokala föreningar (Långasands Byalag och Samfällighetsföreningen i Långasand samt Ullarp-Skällentorp vägförening).
 
 Naturstigen tar dig en vacker slinga på 2.5km där du kan läsa om den lokala naturen och naturvårdsprojektet på tio informationsskyltar. Skyltarnas placering hittar ni på kartan nedan. 
 
@@ -28,4 +28,3 @@ Området är platt och lätt att gå, större delen på grässtig över ängarna
 <br>
 
 <strong>Stigfinnare:</strong> Hans Andersson
-
