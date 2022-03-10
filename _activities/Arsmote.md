@@ -1,19 +1,17 @@
 ---
 title: Årsmöte
-when: 2021-07-26 kl 16:30
+when: 2022-07-26 kl 16:30
 visible: false
 ---
-# Årsmöte - 2021
+# Årsmöte - 2022
 
 ## Kallelse till årsmöte
-
-<span style="color:red">**OBS NYTT DATUM!**</span>
 
 **Datum**: Tisdagen den 26 juli  
 **Tid**: 16.30  
 **Plats**: I eller utanför Anne-Maries Loge.
 
-FÖRANMÄLAN SENAST 25 JULI 2021.  
+FÖRANMÄLAN SENAST 25 JULI 2022.  
 För att underlätta hanteringen vid årsmöte samt vidta försiktighetsåtgärder med hänsyn till
 pandemin ber vi er anmäla er till årsmötet genom att skicka mail med namn och
 fastighetsbeteckning till: arsmote@langasand.se
@@ -41,18 +39,11 @@ Varmt välkomna till årsmöte med Långasands Byalag!
 §15 Val av två revisorer  
 $16 Val av valberedning  
 §17 Motioner  
-- Motion 1. Byalag
-- Motion 2. Uppdaterat syfte
-- Motion 3. Styrelse
-
 §18 Övriga frågor  
 §19 Mötet avslutas  
 
 ### Dokument
 
-<a href="/assets/documents/Motion 1 - Byalag.pdf">Motion 1 - Byalag (pdf)</a><br>
-<a href="/assets/documents/Motion 2 - Uppdaterat syfte.pdf">Motion 2 - Uppdaterat syfte (pdf)</a><br>
-<a href="/assets/documents/Motion 3 - Styrelse.pdf">Motion 3 - Styrelse (pdf)</a><br>
 <!--
 <a href="/assets/documents/resultatrapport_2019.pdf">Resultatrapport 2019 (pdf)</a>
 <a href="/assets/documents/balansrapport_2019.pdf">Balansrapport 2019 (pdf)</a>

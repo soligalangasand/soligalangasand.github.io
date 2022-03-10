@@ -2,6 +2,7 @@
 title: Drakflygning
 when: 2021-07-26 15:00
 end: '- 31'
+visible: false
 ---
 # Drakflygning
 
@@ -40,5 +41,6 @@ Med anledning av rådande omständigheter kommer årets sandbyggartävling genom
 Inspiration kan hämtas från föregående års tävlingar. Bilder på vår Facebook-sida här: <a href="https://www.facebook.com/media/set/?set=a.1507193269328859.1073741828.693299794051548&amp;type=1&amp;l=995880b25f">Soliga Långasand - Sandbyggartävling 2017</a>
 -->
 
-## Arrangör
-**Långasands Byalag**
+<br>
+
+### Arrangör: Långasands Byalag

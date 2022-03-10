@@ -1,22 +1,17 @@
 ---
-title: 'Inställt: Strandstädning'
-when: 2021-04-02 10:00
-visible: false
+title: 'Strandstädning'
+when: 2022-04-18 10:00
+visible: true
 ---
 
-<h1>Årets strandstädning inställd</h1>
+<h1>STRANDSTÄDNING - ANNANDAG PÅSK</h1>
 
-Stranden är i ett mycket bra skick med väldigt lite "skräp" att plocka.
+Vi tackar den trogna skara som varje år är med och städar stranden.
+Det är inte tungt eller smutsigt men väldigt gemytligt när vi är färdiga.
 
-Med den fina stranden och med gällande rekommendationer för COVID-19 har vi beslutat att inte genomföra en gemensam aktivitet för städning i år.
-
-Hoppas vi ses på vår vackra strand senare i sommar!
-
-<i>Obs! Kommunens städning genomförs i vanlig ordning. </i>
+Detaljer om årets städning kommer! 
 
 <!--
-<h1>STRANDSTÄDNING - SÖNDAGEN DEN 7 JUNI</h1>
-
 Samling kl 10.00 vid Långasandsparkeringen.
 
 Observera det senarelagda datumet för årets strandstädning!
@@ -41,5 +36,4 @@ Det är inte tungt eller smutsigt men väldigt gemytligt när vi är färdiga.
 Det brukar vara ett 40-tal personer som ställer upp - Kom du också!
 -->
 
-## Arrangör
-**Långasands Byalag**
+### Arrangör: Långasands Byalag

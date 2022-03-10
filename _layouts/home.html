@@ -3,29 +3,25 @@ layout: default
 ---
 
 <div class="home_background">
-</div>
-
-<div class="home">
-
-  <!--
-  <h1 class="center pt-2">Välkomna till Soliga Långasand!</h1>
-  <h2 class="center pt-1 px-1">I år har vi ett gäng kul aktiviteter som händer, tipspromenader, boulé, sandbyggartävling, drakflygning m.m.</h2>
-  <h2 class="center pt-1 px-1"> Precis som förra året så hoppas vi på förståelse för ev förändringar då vi följer de rekommendationer och råd som gäller för vår region.</h2>
--->  
-  <div class="section center py-2" >
-    <h1 class="center pt-2" style="font-size: 4em">Glöggmys!</h1>
-    <div class="row">
-      <div class="col-lg-6 col-md-6 col-xs-12 text-center mb-4">
-        <img style="max-width:400px" src="assets/images/gloggmys.png" alt="Glöggmys">
-      </div>
-      <div class="col-lg-6 col-md-6 col-xs-12 text-center mb-4">
-        <h2 class="center pt-1 px-1 bold">Ny tradition? </h2>    
-        <h2 class="center pt-1 px-1">Lördag 4 december mellan 15:00 och 16:30 träffar vi grannar och områdesbekanta på glögg och pepparkakor vid Restaurang Strandstugan på Långasandsvägen.</h2>    
-        <h2 class="center pt-1 px-1">Välkomna!</h2>    
-      </div>
+  <div class="container">
+    <h1 class="center pt-3 px-05 header-title">Välkomna till</h1>
+    <h1 class="center px-05 header-title">Soliga Långasand!</h1>  
   </div>
 </div>
+
+<div>
+
+
+  <div class="section my-1">
+    <h2 class="center px-1">Vi i den idella föreningen Långasands Byalag är arrangörer och initiativtagare till flera olika aktiviteter i området.</h2>
+    <h3 class="center px-1">I år ser vi fram emot påsk med påskäggsjakt och strandstädning, valborgsbrasa, midsommardans, tipspromenader, sandbyggartävling, boule, drakflygning mm.</h3>
+</div>  
   
+  <div class="section my-1 px-2 lightblue-background">
+    <h2 class="px-1">Stötta föreningen med ett medlemskap!</h2>
+    <h2 class="px-1">Årsavgiften är 200kr/familj, betalas in på Swish 123 624 47 76. Ange din email vid inbetalning.</h2>
+  </div>
+
   <div class="section">
       <div class="row">
 
@@ -34,7 +30,7 @@ layout: default
           <div class="card mb-4">
             <img class="card-img-top" src="assets/images/pic1.jpg" alt="Aktiviteter">
             <div class="card-body">
-              <h2 class="card-title">Aktiviteter 2021</h2>
+              <h2 class="card-title">Aktiviteter 2022</h2>
               <ul class="list-group no-bullet">
                 {% assign sorted = site.activities | sort: 'when' %}
                 {% for activity in sorted %}

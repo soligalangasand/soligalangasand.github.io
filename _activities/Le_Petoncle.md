@@ -1,8 +1,8 @@
 ---
 title: 'Bouletävling: Le Pétoncle'
-when: 2021-07-14 18:00
+when: 2022-07-14 18:00
 ---
-<h1 class="aligncenter">Le Pétoncle - 2021</h1>
+<h1 class="aligncenter">Le Pétoncle - 2022</h1>
 
 På Frankrikes nationaldag, den 14 juli, avgörs Långasands årliga Petanque/boule-turnering.
 
@@ -25,5 +25,4 @@ Spelschemat sätts när vi vet hur många som är med i årets upplaga och medde
 
 <br>
 
-## Arrangör
-**Långasands Byalag**
+### Arrangör: Långasands Byalag

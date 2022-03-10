@@ -2,6 +2,7 @@
 title: 'Tipspromenad'
 when: 2021-05-01 12:00
 end: '- 02'
+visible: false
 ---
 # Tipspromenad!
 
@@ -21,3 +22,7 @@ Frågorna är familjevänliga, alla är välkomna!
 <div class="center">
     <img width="800" src="/assets/images/tipspromenad_naturstigen_2021.jpg" />
 </div>
+
+<br>
+
+### Arrangör: Långasands Byalag

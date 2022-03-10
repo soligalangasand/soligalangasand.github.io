@@ -1,12 +1,12 @@
 ---
-title: 'Inställt: Midsommarfirande'
-when: 2021-06-25 15:00
+title: 'Midsommarfirande'
+when: 2022-06-24 15:00
 ---
 <h1>Vårt traditionsenliga midsommarfirande!</h1>
 
-Även i år får vi tyvärr ställa in det gemensamma midsommarfirandet pga de restriktioner som gäller.
+I år hoppas vi verkligen på ett midsommarfirande som vi minns det från tidigare år. Vi jobbar på detaljer och letar efter musiker, lekledare och medhjälpare. Vill du vara med och skapa en riktigt härlig midsommar, hör av dig till oss i <a href="/organisation/Styrelsen.html">styrelsen</a>! 
 
-Tipspromenaden på midsommardagen arrangeras i vanlig ordning, väl mött där!
+Missa inte heller tipspromenaden på midsommardagen som arrangeras i vanlig ordning, väl mött där!
 
 <br>
 
@@ -18,3 +18,5 @@ Tipspromenaden på midsommardagen arrangeras i vanlig ordning, väl mött där!
 </div>
 
 <br>
+
+### Arrangör: Långasands Byalag

@@ -8,7 +8,6 @@ Den 14e juli kommer representant från Länsstyrelsen och tar oss runt på en va
 
 Promenaden utgår från Anne-Maries Loge med start kl 15:00. 
 
-<h3>Arrangör</h3>
-<strong>Långasands Byalag i samarbete med Långasands Vägförening</strong>
+<br>
 
-&nbsp;
+### Arrangör: Långasands Byalag i samarbete med Långasands Vägförening
