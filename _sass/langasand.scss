@@ -43,6 +43,13 @@
 
 }
 
+.header-title {
+  color: #022D74;
+  font-size: xxx-large;
+  font-weight: 700;
+  line-height: 1.0;
+}
+
 .trigger {
   padding-right: 24px;
 }
@@ -94,6 +101,10 @@ button {
 
 .blue-background {
   background-color: #022D74;
+}
+
+.lightblue-background {
+  background-color: #C2E2F9;
 }
 
 .bunny-background {
@@ -180,6 +191,11 @@ button {
 
 .pl-1 {
   padding-left: 1rem;
+}
+
+.px-05 {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
 }
 
 .px-1 {

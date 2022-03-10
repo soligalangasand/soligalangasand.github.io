@@ -44,5 +44,6 @@ Om något krånglar skicka ett mail till minecraft@langasand.se så försöker v
 
 Notera: Juryn utses av Långasands Byalag styrelse.
 
-## Arrangör
-**Långasands Byalag**
+<br>
+
+### Arrangör: Långasands Byalag
