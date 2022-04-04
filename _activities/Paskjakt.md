@@ -1,13 +1,14 @@
 ---
-title: 'Påskjakt'
+title: 'Påskäggsjakt'
 when: 2022-04-16 12:00
+end: '- 17'
 ---
-# Påskjakt i Långasand!
+# Påskäggsjakt i Långasand!
 
-<strong>När: Långfredag till Annandag påsk</strong><br>
+<strong>När: Påskafton till Påskdagen</strong><br>
 <strong>Var: Långasandsområdet</strong>
 
-Detaljer om årets påskjakt kommer i börjar på april till denna sida och på Facebook/Instagram.  
+Detaljer om årets påskjakt kommer i början på april till denna sida och på Facebook/Instagram.  
 
 Förra året letade vi efter bokstäver som bildade ordet Påskhare. Vinnare var Annica, Anton och Tomas!  
 

@@ -3,21 +3,31 @@ layout: default
 ---
 
 <div class="home_background">
-  <div class="container">
-    <h1 class="center pt-3 px-05 header-title">Välkomna till</h1>
-    <h1 class="center px-05 header-title">Soliga Långasand!</h1>  
-  </div>
+</div>
+
+<div class="section my-3">
+  <h1 class="center px-05 header-title">Välkomna till</h1>
+  <h1 class="center px-05 header-title">Soliga Långasand!</h1>  
 </div>
 
 <div>
 
+  <div class="my-2">
+    <div class="row">
 
-  <div class="section my-1">
-    <h2 class="center px-1">Vi i den idella föreningen Långasands Byalag är arrangörer och initiativtagare till flera olika aktiviteter i området.</h2>
-    <h3 class="center px-1">I år ser vi fram emot påsk med påskäggsjakt och strandstädning, valborgsbrasa, midsommardans, tipspromenader, sandbyggartävling, boule, drakflygning mm.</h3>
-</div>  
-  
-  <div class="section my-1 px-2 lightblue-background">
+      <div class="col-lg-6 col-md-6 col-xs-12 text-center">
+        <h2>Vi i den idella föreningen Långasands Byalag är arrangörer och initiativtagare till flera olika aktiviteter i området.</h2>
+        <h3>I år ser vi fram emot påsk med påskäggsjakt och strandstädning, valborgsbrasa, midsommardans, tipspromenader, sandbyggartävling, boule, drakflygning mm.</h3>
+      </div>
+
+      <div class="col-lg-6 col-md-6 col-xs-12 text-center">
+        <img alt="prisutdelning" src="/assets/images/prisutdelning_sandbyggartavling.jpg" />
+      </div>
+
+    </div>
+  </div>
+ 
+  <div class="section my-2 lightblue-background">
     <h2 class="px-1">Stötta föreningen med ett medlemskap!</h2>
     <h2 class="px-1">Årsavgiften är 200kr/familj, betalas in på Swish 123 624 47 76. Ange din email vid inbetalning.</h2>
   </div>
@@ -26,8 +36,8 @@ layout: default
       <div class="row">
 
         <!-- Activities -->
-        <div class="col-lg-6 col-md-6 col-xs-12 text-center mb-4">
-          <div class="card mb-4">
+        <div class="col-lg-6 col-md-6 col-xs-12 text-center">
+          <div class="card">
             <img class="card-img-top" src="assets/images/pic1.jpg" alt="Aktiviteter">
             <div class="card-body">
               <h2 class="card-title">Aktiviteter 2022</h2>
@@ -44,8 +54,8 @@ layout: default
         </div>
 
         <!-- Breakfast meetings
-        <div class="col-lg-6 col-md-6 col-xs-12 text-center mb-4">
-          <div class="card mb-4">
+        <div class="col-lg-6 col-md-6 col-xs-12 text-center">
+          <div class="card">
             <img class="card-img-top" src="assets/images/pic2.jpg" alt="Aktiviteter">
             <div class="card-body">
               <h2 class="card-title">Frukostföreläsningar</h2>
@@ -70,8 +80,8 @@ layout: default
       -->
 
         <!-- Informations -->
-        <div class="col-lg-6 col-md-6 col-xs-12 text-center mb-4">
-            <div class="card mb-4">
+        <div class="col-lg-6 col-md-6 col-xs-12 text-center">
+            <div class="card">
               <img class="card-img-top" src="assets/images/pic3.jpg" alt="Information">
               <div class="card-body">
                 <h2 class="card-title">Information</h2>
@@ -91,13 +101,15 @@ layout: default
           </div>
 
           <!-- Organisation -->
-          <div class="col-lg-6 col-md-6 col-xs-12 text-center mb-4">
-              <div class="card mb-4">
+          <div class="col-lg-6 col-md-6 col-xs-12 text-center">
+              <div class="card">
                 <img class="card-img-top" src="assets/images/pic4.jpg" alt="Föreningen">
                 <div class="card-body">
                   <h2 class="card-title">Föreningen</h2>
                   <ul class="list-group list-group-flush no-bullet">
-                    {% for article in site.organisation %}
+                    <li><a href="/about/">Om föreningen</a></li>
+                    {% assign reversOrder = site.organisation | reverse %}
+                    {% for article in reversOrder %}    
                     <li><a href="{{ article.url }}">{{ article.title }}</a></li>
                     {% endfor %}
                   </ul>
@@ -106,8 +118,8 @@ layout: default
             </div>
 
         <!-- Trails -->
-        <div class="col-lg-6 col-md-6 col-xs-12 text-center mb-4">
-          <div class="card mb-4">
+        <div class="col-lg-6 col-md-6 col-xs-12 text-center">
+          <div class="card">
             <img class="card-photo-top" src="assets/images/klovastigen.jpg" alt="vandringsstigar">
             <div class="card-body">
               <h2 class="card-title">Promenad och vandringsstigar</h2>
