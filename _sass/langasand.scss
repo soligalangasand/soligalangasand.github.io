@@ -38,14 +38,13 @@
   @include media-query($on-palm) {
     padding-top: 0;
     padding-left: 0;
-    line-height: 30px;
   }
 
 }
 
 .header-title {
   color: #022D74;
-  font-size: xxx-large;
+  font-size: 500%;
   font-weight: 700;
   line-height: 1.0;
 }
@@ -81,7 +80,6 @@ button {
   font-size: 16px;
   border-radius: 8px;
 }
-
 
  .full-width {
   width: 100vw;
@@ -222,7 +220,7 @@ button {
   -ms-flex-direction: column;
   flex-direction: column;
   min-width: 0;
-  min-height: 450px;
+  min-height: 500px;
   word-wrap: break-word;
   background-color: #fff;
   background-clip: border-box;
