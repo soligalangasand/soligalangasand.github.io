@@ -8,9 +8,9 @@ end: '- 17'
 <strong>När: Påskafton till Påskdagen</strong><br>
 <strong>Var: Långasandsområdet</strong>
 
-Detaljer om årets påskjakt kommer i början på april till denna sida och på Facebook/Instagram.  
+Långasandskaninerna har även detta år gömt bokstäver i Långasand!
 
-Förra året letade vi efter bokstäver som bildade ordet Påskhare. Vinnare var Annica, Anton och Tomas!  
+**[Till tävlingen!](/easter-hunt/)**
 
 <div class="full-width center">
     <img width="400" src="/assets/images/paskjakt_2021.jpg"/>
