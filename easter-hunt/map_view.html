@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Custom Markers</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script>
+      var map;
+      var infoWindow;
+
+      function initMap() {
+        map = new google.maps.Map(
+            document.getElementById('map'),
+            {center: new google.maps.LatLng(56.835694, 12.603196), zoom: 15});
+
+        infoWindow = new google.maps.InfoWindow();
+
+        var iconBase =
+            './';
+
+        var icons = {
+          rabbit: {
+            icon: iconBase + 'lff_kanin.png'
+          },
+          rabbit2: {
+            icon: iconBase + 'lff_kanin_2.png'
+          }
+        };
+
+
+        var features = [
+          {
+            position: new google.maps.LatLng(56.83196152548872, 12.596023020466752),
+            type: 'rabbit',
+            title: "Bron",
+            details: 'Allt är inte guld som glimmar.'
+          }, {
+            position: new google.maps.LatLng(56.835986237295366, 12.60027895654415),
+            type: 'rabbit',
+            title: "Infotavlan",
+            details: 'Här kan du hålla dig upplyst!'
+          }, {
+            position: new google.maps.LatLng(56.837716756964504, 12.602060257299073),
+            type: 'rabbit',
+            title: "Bokbytarhyllan",
+            details: 'Här finns läsvärt hela året om!'
+          }, {
+            position: new google.maps.LatLng(56.841648381929815, 12.611088216883234),
+            type: 'rabbit',
+            title: "Den stora siffran",
+            details: 'Lägg till 5 och du får bokstaven från alfabetet.'
+          }, {
+            position: new google.maps.LatLng(56.82919545537464, 12.600712034404625),
+            type: 'rabbit',
+            title: "G?S500",
+            details: 'Brunnen ger svaret.'
+          }, {
+            position: new google.maps.LatLng(56.83058667020132, 12.603249886345926),
+            type: 'rabbit',
+            title: "En bokstav finns tre gånger",
+            details: 'Men den ska bara användas en gång..'
+          }
+        ];
+
+        // Create markers.
+        for (var i = 0; i < features.length; i++) {
+          var marker = new google.maps.Marker({
+            position: features[i].position,
+            icon: icons[features[i].type].icon,
+            map: map,
+            title: features[i].title,
+            details: features[i].details
+          });
+          marker.addListener('click', function() {
+
+            var contentString =
+              '<div id="content">' +
+                '<h2 id="firstHeading" class="firstHeading">' + this.getTitle() + '</h2>' +
+                this?.details +
+              '</div>';
+      marker.t
+            infoWindow.setContent(contentString);
+            infoWindow.open(map, this);
+          });
+        };
+      }
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA20SDkemrLBVAN-a8vPSMOmwdISExD8fc&callback=initMap">
+    </script>
+  </body>
+</html>
