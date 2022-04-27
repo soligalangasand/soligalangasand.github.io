@@ -10,7 +10,7 @@ end: '- 17'
 
 Årets påskäggsjakt är avslutad. Tack till alla som var med, hoppas ni fick fina promenader i det soliga påskvädret!
 
-45 sällskap hittade alla gömda bokstäver och fick fram ordet som i år var FJÄDER, utomordentligt bra letat!
+Nära 50 sällskap hittade alla gömda bokstäver och fick fram ordet som i år var FJÄDER, utomordentligt bra letat!
 
 Extra stort grattis till Johanna, Johanna och Eva med familjer som vann var sin Långasandskasse med påskägg. :) 
 
