@@ -2,9 +2,11 @@
 title: 'Midsommarfirande'
 when: 2022-06-24 15:00
 ---
-<h1>Vårt traditionsenliga midsommarfirande!</h1>
+<h1>Välkomna till vårt traditionsenliga midsommarfirande!</h1>
 
-I år hoppas vi verkligen på ett midsommarfirande som vi minns det från tidigare år. Vi jobbar på detaljer och letar efter musiker, lekledare och medhjälpare. Vill du vara med och skapa en riktigt härlig midsommar, hör av dig till oss i <a href="/organisation/Styrelsen.html">styrelsen</a>! 
+Kl 10 samlas vi för lövhämtning med traktor och vagn. Därefter klär vi midsommarstången. Saft och kaka till barnen som hjälper till. 
+
+Kl 15 Resning av stången, musik, dans och lek. Lotter finns att köpa och glass till alla barn! 
 
 Missa inte heller tipspromenaden på midsommardagen som arrangeras i vanlig ordning, väl mött där!
 
