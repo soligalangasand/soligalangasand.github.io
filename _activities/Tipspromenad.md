@@ -6,11 +6,11 @@ when: 2022-06-25 14:00
 
 För hela familjen, kluriga barn- och vuxenfrågor, sträckning runt Långasand.
 
-Datum 2022 06 25.
+Start mellan kl 14:00-16:00, utgångspunkt Restaurang Strandstugan. 
 
-Start vanligtvis på eftermiddagen, troligen så även i år :)
+Medtag gärna egen penna :) 
 
-Mer info kommer när det närmar sig! 
+Välkomna!
 
 <div class="center">
     <img width="800" src="/assets/images/p-j-9702xTENR-M-unsplash.jpg" />
