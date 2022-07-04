@@ -11,11 +11,11 @@ Kylda drycker säljes till självkostnadspris.
 
 Anmälningsavgiften betalas med Swish på plats. Vinnaren går därifrån med äran och prispengar, som utgörs av anmälningsavgifterna.
 
-De första matcherna spelas kl 18:00.
+Starttid blir ca 17.00 beroende på antal anmälda. 
 
-OBS! Anmäl ert lag senast kl 18 tisdag 13e juli till Carl Tönsgård via sms (0703 14 01 05) eller via mail på <a href="mailto:carl.tonsgard@langasand.se?Subject=Anmälan%20boule" target="_top">carl.tonsgard@langasand.se</a>.
+OBS! Anmäl ert lag senast kl 18 onsdag 13 juli till Thérèse Troedsson på mail <a href="mailto:theresetroedsson@hotmail.com?Subject=Anmälan%20boule" target="_top">theresetroedsson@hotmail.com</a>.
 
-Spelschemat sätts när vi vet hur många som är med i årets upplaga och meddelas på tisdagskvällen.
+Spelschemat sätts när vi vet hur många som är med i årets upplaga och meddelas före start.
 
 <br>
 
