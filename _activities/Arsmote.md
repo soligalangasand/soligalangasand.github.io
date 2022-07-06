@@ -1,20 +1,18 @@
 ---
 title: Årsmöte
-when: 2022-07-26 kl 16:30
-visible: false
+when: 2022-07-26 kl 09:00
+visible: true
 ---
 # Årsmöte - 2022
 
 ## Kallelse till årsmöte
 
 **Datum**: Tisdagen den 26 juli  
-**Tid**: 16.30  
+**Tid**: 09.00  
 **Plats**: I eller utanför Anne-Maries Loge.
 
-FÖRANMÄLAN SENAST 25 JULI 2022.  
-För att underlätta hanteringen vid årsmöte samt vidta försiktighetsåtgärder med hänsyn till
-pandemin ber vi er anmäla er till årsmötet genom att skicka mail med namn och
-fastighetsbeteckning till: arsmote@langasand.se
+FÖRANMÄLAN SENAST 24 JULI 2022.  
+Anmäl er närvaro till årsmötet genom att skicka mail till: arsmote@langasand.se
 
 ### PROGRAM
 
