@@ -11,12 +11,10 @@ visible: true
 **Tid**: 09.00  
 **Plats**: I eller utanför Anne-Maries Loge.
 
-FÖRANMÄLAN SENAST 24 JULI 2022.  
-Anmäl er närvaro till årsmötet genom att skicka mail till: arsmote@langasand.se
-
-### PROGRAM
-
 Varmt välkomna till årsmöte med Långasands Byalag!
+
+**FÖRANMÄLAN SENAST 24 JULI 2022.**  
+Anmäl er närvaro till årsmötet genom att skicka mail till: arsmote@langasand.se
 
 #### Dagordning
 
@@ -40,9 +38,10 @@ $16 Val av valberedning
 §18 Övriga frågor  
 §19 Mötet avslutas  
 
+<!--
+
 ### Dokument
 
-<!--
 <a href="/assets/documents/resultatrapport_2019.pdf">Resultatrapport 2019 (pdf)</a>
 <a href="/assets/documents/balansrapport_2019.pdf">Balansrapport 2019 (pdf)</a>
 -->
