@@ -1,22 +1,20 @@
 ---
 title: Sandbyggartävling
-when: 2022-07-23 10:00
+when: 2022-07-23 14:00
 ---
 
 # Välkommen till Långasands årliga sandbyggartävling
 
 Här ges tillfälle att forma fantasifulla sandskapelser!
 
-**När:** Lördagen den 23 juli kl ??<br>
-**Var:** Stranden vid Långasandsvägens slut
+**När:** Lördagen den 23 juli kl 14-15  
+**Var:** Stranden vid Långasandsvägens slut  
 
-Mer detaljer när vi närmar oss!
-
-<!-- 
-**Regler**
 Skriftlig anmälan görs på stranden vid Långasandsvägens
-slut från kl 10.00. (vid ösregn ställs tävlingen in). Tävlingen
-pågår i 1,5 tim.
+slut från kl 13.30. (vid ösregn ställs tävlingen in). 
+
+**Regler**  
+Tävlingen pågår i en timme.
 
 Ni bildar lag om max fem personer. Lagen får formas enligt
 följande klasser:
@@ -31,8 +29,6 @@ naturmaterial från stranden användas.
 Juryn kommer att bedöma fantasirikedom och
 konstnärlighet. Vinnarna i de olika klasserna utses direkt
 när tävlingen är avslutad. Glass till alla deltagare!
-
---> 
 
 <div class="center my-2">
     <img class="px-1 pt-1" width="400" src="/assets/images/sandodla.jpg" />
