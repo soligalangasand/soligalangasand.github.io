@@ -28,7 +28,7 @@ naturmaterial från stranden användas.
 
 Juryn kommer att bedöma fantasirikedom och
 konstnärlighet. Vinnarna i de olika klasserna utses direkt
-när tävlingen är avslutad. Glass till alla deltagare!
+när tävlingen är avslutad.
 
 <div class="center my-2">
     <img class="px-1 pt-1" width="400" src="/assets/images/sandodla.jpg" />
