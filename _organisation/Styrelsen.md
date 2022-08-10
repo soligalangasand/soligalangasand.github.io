@@ -23,7 +23,7 @@ c/o Carl Tönsgård, Kullavägen 15, 31196 HEBERG
 </tr>
 <tr>
     <td valign="top"><strong>Kassör</strong>
-    Lena Brännström, Ringstraststigen 14
+    Ylva Rudling
     </td>
     <td valign="top">E-post: <a href="mailto:kassor@langasand.se">kassor@langasand.se</a></td>
 </tr>
