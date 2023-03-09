@@ -44,10 +44,16 @@
 
 .header-title {
   color: #022D74;
-  font-size: 7vw;
+  font-size: 9vw;
   font-weight: 700;
   white-space: nowrap;
   line-height: 1.0;
+}
+
+@media screen and (min-width: 1200px) {
+  .header-title {
+    font-size: 108px; /* cap to not overflow on wide screens */
+  }
 }
 
 .trigger {
