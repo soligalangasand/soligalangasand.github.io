@@ -1,16 +1,16 @@
 ---
 title: 'Påskäggsjakt'
-when: 2022-04-16 12:00
-end: '- 17'
+when: 2023-04-08 12:00
+end: '- 09'
 ---
 # Påskäggsjakt i Långasand!
 
 <strong>När: Påskafton till Påskdagen</strong><br>
 <strong>Var: Långasandsområdet</strong>
 
-Årets påskäggsjakt är avslutad. Tack till alla som var med, hoppas ni fick fina promenader i det soliga påskvädret!
+Mer info kommer när vi närmar oss! 
 
-Nära 50 sällskap hittade alla gömda bokstäver och fick fram ordet som i år var FJÄDER, utomordentligt bra letat!
+Förra året hittade nära 50 sällskap alla gömda bokstäver och fick fram ordet som i år var FJÄDER, utomordentligt bra letat!
 
 Extra stort grattis till Johanna, Johanna och Eva med familjer som vann var sin Långasandskasse med påskägg. :) 
 

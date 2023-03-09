@@ -1,19 +1,19 @@
 ---
 title: Årsmöte
-when: 2022-07-26 kl 09:00
+when: 2023-07-25 kl 09:00
 visible: true
 ---
-# Årsmöte - 2022
+# Årsmöte - 2023
 
 ## Kallelse till årsmöte
 
-**Datum**: Tisdagen den 26 juli  
+**Datum**: Tisdagen den 25 juli  
 **Tid**: 09.00  
-**Plats**: I eller utanför Anne-Maries Loge.
+**Plats**: Ej bestämd.
 
 Varmt välkomna till årsmöte med Långasands Byalag!
 
-**FÖRANMÄLAN SENAST 24 JULI 2022.**  
+**FÖRANMÄLAN SENAST 23 JULI 2023.**  
 Anmäl er närvaro till årsmötet genom att skicka mail till: arsmote@langasand.se
 
 #### Dagordning

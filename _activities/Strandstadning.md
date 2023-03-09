@@ -1,6 +1,6 @@
 ---
 title: 'Strandstädning'
-when: 2022-04-18 10:00
+when: 2023-04-10 10:00
 visible: true
 ---
 
