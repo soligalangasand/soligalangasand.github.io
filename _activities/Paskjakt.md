@@ -5,14 +5,16 @@ end: '- 09'
 ---
 # Påskäggsjakt i Långasand!
 
-<strong>När: Påskafton till Påskdagen</strong><br>
+<strong>När: Påskafton kl 08 till Påskdagen kl 18</strong><br>
 <strong>Var: Långasandsområdet</strong>
 
-Mer info kommer när vi närmar oss! 
+Långasandskaninerna har gömt bokstäver i området. Er uppgift är att hitta dom (Se men inte röra) och bilda ett ord som ni skickar in till oss i Långasands Byalag. 
 
-Förra året hittade nära 50 sällskap alla gömda bokstäver och fick fram ordet som i år var FJÄDER, utomordentligt bra letat!
+**[Till tävlingen!](/easter-hunt/)**
 
-Extra stort grattis till Johanna, Johanna och Eva med familjer som vann var sin Långasandskasse med påskägg. :) 
+När ni är klara så kan ni skicka in ordet här:  
+
+**[Skicka in svaret!](https://fdr8l356igz.typeform.com/to/X9vAa3xk)**
 
 <div class="full-width center">
     <img width="400" src="/assets/images/paskjakt_2021.jpg"/>
