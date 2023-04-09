@@ -8,19 +8,15 @@ end: '- 09'
 <strong>När: Påskafton kl 08 till Påskdagen kl 18</strong><br>
 <strong>Var: Långasandsområdet</strong>
 
-Långasandskaninerna har gömt bokstäver i området. Er uppgift är att hitta dom (Se men inte röra) och bilda ett ord som ni skickar in till oss i Långasands Byalag. 
+Årets påskäggsjakt är avslutad och vi gratulerar vinnarna Annica, Anton och Jonathan som meddelats om vinst via email. 
 
-**[Till tävlingen!](/easter-hunt/)**
-
-När ni är klara så kan ni skicka in ordet här:  
-
-**[Skicka in svaret!](https://fdr8l356igz.typeform.com/to/X9vAa3xk)**
+70 svar lämnades in, kul! Stort tack till alla som letade runt i området! 
 
 <div class="full-width center">
-    <img width="400" src="/assets/images/paskjakt_2021.jpg"/>
+    <img width="400" src="/assets/images/a_yellow_colored_plastic_letter_A_hidden_in_the_grass.png"/>
 </div>
 <div class="center">
-    <span>Fotot från 2021 års påskäggsjakt inskickat av Anton</span>
+    <span>Så här kan vissa av bokstäverna se ut!</span>
 </div>
 
 <br>
