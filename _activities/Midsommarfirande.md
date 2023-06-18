@@ -8,8 +8,6 @@ when: 2023-06-23 15:00
 
 <h2>Vill du sälja lotter? Hör av dig!</h2>
 
-<h2>Vill du spela musik? Hör av dig!</h2>
-
 <h2> Mail: hej@langasand.se </h2>
 
 <br>
