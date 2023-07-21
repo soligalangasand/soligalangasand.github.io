@@ -9,12 +9,12 @@ visible: true
 
 **Datum**: Tisdagen den 25 juli  
 **Tid**: 09.00  
-**Plats**: Ej bestämd.
+**Plats**: Kilagårds Gröna, Vesslunda.
 
 Varmt välkomna till årsmöte med Långasands Byalag!
 
-**FÖRANMÄLAN SENAST 23 JULI 2023.**  
-Anmäl er närvaro till årsmötet genom att skicka mail till: arsmote@langasand.se
+**FÖRANMÄLAN SENAST 22 JULI 2023.**  
+Anmäl er närvaro till årsmötet genom att skicka mail till: hej@langasand.se
 
 #### Dagordning
 
