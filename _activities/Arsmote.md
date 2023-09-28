@@ -5,18 +5,18 @@ visible: true
 ---
 # Årsmöte - 2023
 
-## Kallelse till årsmöte
+### Protokoll
+
+<a href="/assets/documents/protokoll_arsmote_2023.pdf">Protokoll årsmöte 2023 (pdf)</a>   
+<a href="/assets/documents/protokoll_konstituerande_2023.pdf">Protokoll konstituerande möte 2023 (pdf)</a>
+
+
+## Kallelse
 
 **Datum**: Tisdagen den 25 juli  
 **Tid**: 09.00  
 **Plats**: Kilagårds Gröna, Vesslunda.
 
-### Protokoll från årsmöte 2023
-
-<a href="/assets/documents/protokoll_arsmote_2023.pdf">Protokoll årsmöte 2023 (pdf)</a>   
-<a href="/assets/documents/protokoll_konstituerande_2023.pdf">Protokoll konstituerande möte 2023 (pdf)</a>
-
-## Kallelse 
 ### Varmt välkomna till årsmöte med Långasands Byalag!
 
 **FÖRANMÄLAN SENAST 22 JULI 2023.**  
