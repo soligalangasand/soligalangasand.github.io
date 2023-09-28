@@ -11,7 +11,13 @@ visible: true
 **Tid**: 09.00  
 **Plats**: Kilagårds Gröna, Vesslunda.
 
-Varmt välkomna till årsmöte med Långasands Byalag!
+### Protokoll från årsmöte 2023
+
+<a href="/assets/documents/protokoll_arsmote_2023.pdf">Protokoll årsmöte 2023 (pdf)</a>   
+<a href="/assets/documents/protokoll_konstituerande_2023.pdf">Protokoll konstituerande möte 2023 (pdf)</a>
+
+## Kallelse 
+### Varmt välkomna till årsmöte med Långasands Byalag!
 
 **FÖRANMÄLAN SENAST 22 JULI 2023.**  
 Anmäl er närvaro till årsmötet genom att skicka mail till: hej@langasand.se
@@ -37,6 +43,7 @@ $16 Val av valberedning
 §17 Motioner  
 §18 Övriga frågor  
 §19 Mötet avslutas  
+
 
 <!--
 
