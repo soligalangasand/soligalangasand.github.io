@@ -17,9 +17,9 @@ c/o Carl Tönsgård, Kullavägen 15, 31196 HEBERG
     E-post: <a href="mailto:ordforande@langasand.se">ordforande@langasand.se</a></td>
 </tr>
 <tr>
-    <td valign="top"><strong>Sekreterare</strong>
-    Jenny Julin</td>
-    <td valign="top">E-post: <a href="mailto:sekreterare@langasand.se">sekreterare@langasand.se</a></td>
+    <td valign="top"><strong>Vice ordförande</strong>
+    Jan-Peter Idström
+    </td>
 </tr>
 <tr>
     <td valign="top"><strong>Kassör</strong>
@@ -28,12 +28,24 @@ c/o Carl Tönsgård, Kullavägen 15, 31196 HEBERG
     <td valign="top">E-post: <a href="mailto:kassor@langasand.se">kassor@langasand.se</a></td>
 </tr>
 <tr>
-    <td valign="top"><strong>Vice ordförande</strong>
-    Hans Andersson, Trossnäsvägen 24</td>
+    <td valign="top"><strong>Sekreterare</strong>
+    Ingrid Tönsgård</td>
+    <td valign="top">E-post: <a href="mailto:sekreterare@langasand.se">sekreterare@langasand.se</a></td>
 </tr>
 <tr>
     <td valign="top"><strong>Ledamot</strong>
-    Ingrid Tönsgård</td>
+    Hans Andersson, Trossnäsvägen 24
+    </td>
+</tr>
+<tr>
+    <td valign="top"><strong>Ledamot</strong>
+    Kerstin von Braun
+    </td>
+</tr>
+<tr>
+    <td valign="top"><strong>Ledamot</strong>
+    Kicki Broholm
+    </td>
 </tr>
 </tbody>
 </table>
