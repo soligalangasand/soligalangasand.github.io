@@ -1,6 +1,6 @@
 ---
 title: Årsmöte
-when: 2023-07-30 kl 09:00
+when: 2024-07-30 kl 09:00
 visible: true
 ---
 # Årsmöte - 2024
