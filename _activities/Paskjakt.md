@@ -1,7 +1,7 @@
 ---
 title: 'Påskäggsjakt'
 when: 2024-03-30 12:00
-end: '- 01'
+end: '- Apr 01'
 ---
 # Påskäggsjakt i Långasand!
 
