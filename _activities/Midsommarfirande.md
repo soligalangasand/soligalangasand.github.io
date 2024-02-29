@@ -1,12 +1,10 @@
 ---
 title: 'Midsommarfirande'
-when: 2023-06-23 15:00
+when: 2024-06-21 15:00
 ---
-<h1>Vi i styrelsen behöver hjälp att få till midsommarfirandet</h1>
+<h1>Vi i styrelsen behöver som vanligt hjälp att få till midsommarfirandet</h1>
 
-<h2>Vill du leda lekar och hålla i sången? Hör av dig!</h2>
-
-<h2>Vill du sälja lotter? Hör av dig!</h2>
+<h2>Vill du sälja lotter eller hjälpa till på annat sätt? Hör av dig!</h2>
 
 <h2> Mail: hej@langasand.se </h2>
 

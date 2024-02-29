@@ -1,6 +1,6 @@
 ---
 title: 'Strandstädning'
-when: 2023-04-10 10:00
+when: 2024-04-01 10:00
 visible: true
 ---
 
@@ -9,7 +9,7 @@ visible: true
 
 **Samling kl 10.00 vid strandparkeringen på Långasandsvägen.**    
 
-Stranden är i gott skick men vi hittar alltid en del plast och annat som flutit i land under vinterstormarna. Hjälps vi åt går det snabbt! 
+Vi hjälps åt att plocka plast och annat som flutit i land under vinterstormarna. Hjälps vi åt går det snabbt! 
 
 Efter städningen bjuder vi på grillkorv med bröd och dricka. 
 

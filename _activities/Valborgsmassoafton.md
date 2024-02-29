@@ -1,13 +1,11 @@
 ---
 title: 'Valborgsmässoafton'
-when: 2023-04-30 20:00
+when: 2024-04-30 20:00
 ---
 
 # Valborgsmässoafton
 
-**Kl 20:00** möter vi VÅREN med tal, sång och en lagom stor brasa. :)
-
-I år samarrangerar vi Valborg med Slöinge-Eftra Hembygdsförening.
+**Kl 20:00** möter vi sedvanligt VÅREN med tal, sång och en lagom stor brasa. :)
 
 Sånghäfte hittar ni här: 
 <a href="/assets/images/Valborg.pdf">Sånghäfte Valborg</a>
@@ -28,4 +26,4 @@ OBS! Byalaget arrangerar brasan, eget ris kan tyvärr inte lämnas in.
 
 &nbsp;
 
-### Arrangör: Långasands Byalag och Slöinge-Eftra Hembygdsförening
+### Arrangör: Långasands Byalag
