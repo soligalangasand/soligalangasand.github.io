@@ -8,7 +8,7 @@ end: '- Apr 01'
 <strong>När: Påskafton kl 08 till Påskdagen kl 18</strong><br>
 <strong>Var: Långasandsområdet</strong>
 
-Årets påskäggsjakt är avslutat och vi gratulerar Albin, Emil och Robin till vinsten! (Vinnarna är meddelade över email)
+Årets påskäggsjakt är avslutad och vi gratulerar Albin, Emil och Robin till vinsten! (Vinnarna är meddelade över email)
 
 Vi tackar också alla er andra som var med och letade i år! Hela 91 personer skickade in rätt ord, HALLAND, vilket är ett rekord i sig!
 
