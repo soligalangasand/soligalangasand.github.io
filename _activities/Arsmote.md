@@ -5,8 +5,8 @@ visible: true
 ---
 # Årsmöte - 2024
 
-## Kallelse till Årsmöte 2024 kommer under våren.  
-Preliminärt tidpunkt är satt till kl 9:00 tisdag den 30 juli.
+## Kallelse till Årsmöte 2024 kommer under tidig sommar.  
+Preliminärt tidpunkt är satt till kl 16:00 tisdag den 30 juli.
 
 ### Protokoll från mötet 2023
 
