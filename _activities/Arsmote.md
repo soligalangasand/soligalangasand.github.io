@@ -1,30 +1,19 @@
 ---
 title: Årsmöte
-when: 2024-07-30 kl 09:00
+when: 2024-07-30 kl 16:00
 visible: true
 ---
 # Årsmöte - 2024
 
-## Kallelse till Årsmöte 2024 kommer under tidig sommar.  
-Preliminärt tidpunkt är satt till kl 16:00 tisdag den 30 juli.
-
-### Protokoll från mötet 2023
-
-<a href="/assets/documents/protokoll_arsmote_2023.pdf">Protokoll årsmöte 2023 (pdf)</a>   
-<a href="/assets/documents/protokoll_konstituerande_2023.pdf">Protokoll konstituerande möte 2023 (pdf)</a>
-
-
-
-<!--
 ## Kallelse
 
-**Datum**: Tisdagen den 25 juli  
-**Tid**: 09.00  
+**Datum**: Tisdagen den 30 juli  
+**Tid**: 16.00  
 **Plats**: Kilagårds Gröna, Vesslunda.
 
 ### Varmt välkomna till årsmöte med Långasands Byalag!
 
-**FÖRANMÄLAN SENAST 22 JULI 2023.**  
+**FÖRANMÄLAN SENAST 23 JULI 2023.**  
 Anmäl er närvaro till årsmötet genom att skicka mail till: hej@langasand.se
 
 #### Dagordning
@@ -32,9 +21,9 @@ Anmäl er närvaro till årsmötet genom att skicka mail till: hej@langasand.se
 §1 Mötet öppnas  
 §2 Upprättande av närvaroförteckning  
 §3 Val av ordförande och sekreterare för årsmötet  
-§4 Val av protokolljusterare, tillika rösträknare  
+§4 Val av justerare, tillika rösträknare  
 §5 Godkännande av eventuella fullmakter  
-§6 Fråga om mötet är utlyst på rätt sätt  
+§6 Fråga om mötet är utlyst i behörig ordning  
 §7 Fastställande av dagordning  
 §8 Årsberättelse, ekonomi och revisionsberättelse  
 §9 Fastställande av resultat- och balansräkning samt vinstdisposition  
@@ -49,7 +38,12 @@ $16 Val av valberedning
 §18 Övriga frågor  
 §19 Mötet avslutas  
 
- -->
+
+### Protokoll från mötet 2023
+
+<a href="/assets/documents/protokoll_arsmote_2023.pdf">Protokoll årsmöte 2023 (pdf)</a>   
+<a href="/assets/documents/protokoll_konstituerande_2023.pdf">Protokoll konstituerande möte 2023 (pdf)</a>
+
 <!--
 
 ### Dokument
@@ -58,9 +52,9 @@ $16 Val av valberedning
 <a href="/assets/documents/balansrapport_2019.pdf">Balansrapport 2019 (pdf)</a>
 -->
 
-<!-- 
+
 Välkomna.
 
 Styrelsen
--->
+
 Arrangeras av styrelsen i Långasands Byalag.
