@@ -12,8 +12,8 @@ c/o Carl Tönsgård, Kullavägen 15, 31196 HEBERG
 <tbody>
 <tr>
     <td valign="top"><strong>Ordförande</strong>
-    Carl Tönsgård, Kullavägen 15</td>
-    <td valign="top">Tel: <a href="tel:0703140105">070-3140105</a>
+    Kiki Broholm</td>
+    <td valign="top"><!-- Tel: <a href="tel:0703140105">070-3140105</a> -->
     E-post: <a href="mailto:ordforande@langasand.se">ordforande@langasand.se</a></td>
 </tr>
 <tr>
@@ -44,7 +44,7 @@ c/o Carl Tönsgård, Kullavägen 15, 31196 HEBERG
 </tr>
 <tr>
     <td valign="top"><strong>Ledamot</strong>
-    Kicki Broholm
+    Peter Lindberg
     </td>
 </tr>
 </tbody>
