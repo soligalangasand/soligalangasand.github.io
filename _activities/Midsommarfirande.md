@@ -1,6 +1,6 @@
 ---
 title: 'Midsommarfirande'
-when: 2024-06-21 15:00
+when: 2025-06-20 15:00
 ---
 <h1>Vi i styrelsen behöver som vanligt hjälp att få till midsommarfirandet</h1>
 

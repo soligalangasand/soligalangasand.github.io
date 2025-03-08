@@ -1,21 +1,24 @@
 ---
 title: Årsmöte
-when: 2024-07-30 kl 16:00
+when: 2025-07-27 kl 16:00
 visible: true
 ---
 # Årsmöte - 2024
 
 ## Kallelse
 
-**Datum**: Tisdagen den 30 juli  
-**Tid**: 16.00  
-**Plats**: Kilagårds Gröna, Vesslunda.
+**Datum**: Söndagen den 27 juli  
+**Tid**: TBD  
+**Plats**: TBD
 
 ### Varmt välkomna till årsmöte med Långasands Byalag!
 
+Mer info kommer. 
+
+<!--
 **FÖRANMÄLAN SENAST 23 JULI 2023.**  
 Anmäl er närvaro till årsmötet genom att skicka mail till: hej@langasand.se
-
+-->
 #### Dagordning
 
 §1 Mötet öppnas  
@@ -38,12 +41,12 @@ $16 Val av valberedning
 §18 Övriga frågor  
 §19 Mötet avslutas  
 
-
+<!--
 ### Protokoll från mötet 2023
 
 <a href="/assets/documents/protokoll_arsmote_2023.pdf">Protokoll årsmöte 2023 (pdf)</a>   
 <a href="/assets/documents/protokoll_konstituerande_2023.pdf">Protokoll konstituerande möte 2023 (pdf)</a>
-
+-->
 <!--
 
 ### Dokument

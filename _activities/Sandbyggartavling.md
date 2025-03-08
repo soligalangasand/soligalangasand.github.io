@@ -1,6 +1,6 @@
 ---
 title: Sandbyggartävling
-when: 2024-07-20 14:00
+when: 2025-07-19 14:00
 ---
 
 # Välkommen till Långasands årliga sandbyggartävling
