@@ -8,7 +8,9 @@ end: '- 20'
 <strong>När: Påskafton kl 08 till Påskdagen kl 18</strong><br>
 <strong>Var: Långasandsområdet</strong>
 
-Mer info om årets påskäggjakt kommer inom kort. 
+Under Påskhelgen letar vi bokstäver som bildar ett ord i vårt närområde.
+
+Mer detaljer kommer här på påskafton.
 
 Förra året hittade hela 91 personer rätt ord, så var med du också! 
 

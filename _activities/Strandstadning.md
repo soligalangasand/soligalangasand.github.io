@@ -9,9 +9,9 @@ visible: true
 
 **Samling kl 10.00 vid strandparkeringen på Långasandsvägen.**    
 
-Vi hjälps åt att plocka plast och annat som flutit i land under vinterstormarna. Hjälps vi åt går det snabbt! 
+Vi hjälps åt att plocka plast och annat som flutit i land under vinterstormarna, samt röja en stig till stranden. Hjälps vi åt går det snabbt! 
 
-Efter städningen bjuder vi på grillkorv med bröd och dricka. 
+Vi avslutar med korvgrillning på parkeringen.
 
 Obs! Medtag egna arbetshandskar. Sopsäckar och dyl finns på plats. 
 
