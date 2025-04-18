@@ -6,11 +6,11 @@ end: '- 20'
 # Påskäggsjakt i Långasand!
 
 <strong>När: Påskafton kl 08 till Påskdagen kl 18</strong><br>
-<strong>Var: Långasandsområdet</strong>
+<strong>Var: Långasand</strong>
 
 Under Påskhelgen letar vi bokstäver som bildar ett ord i vårt närområde.
 
-Mer detaljer kommer här på påskafton.
+[Till tävlingen här](https://www.soligalangasand.se/easter-hunt/)
 
 Förra året hittade hela 91 personer rätt ord, så var med du också! 
 
