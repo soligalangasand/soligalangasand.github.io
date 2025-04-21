@@ -8,7 +8,10 @@ end: '- 20'
 <strong>När: Påskafton kl 08 till Påskdagen kl 18</strong><br>
 <strong>Var: Långasand</strong>
 
-Årets påskäggsjakt är avslutad. 
+Årets påskäggsjakt är avslutad.
+
+Tack till alla som letade runt och skickade in svar trots det delvis blöta vädret!
+Över 70 skickade in godkända ord, kul! 
 
 Vi gratulerar vinnarna Alice, Elin och Torbjörn som alla meddelats via email! 
 
