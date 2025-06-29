@@ -1,24 +1,24 @@
 ---
 title: Årsmöte
-when: 2025-07-27 kl 16:00
+when: 2025-07-22 kl 16:00
 visible: true
 ---
-# Årsmöte - 2024
+# Årsmöte - 2025
 
 ## Kallelse
 
-**Datum**: Söndagen den 27 juli  
-**Tid**: TBD  
-**Plats**: TBD
+**Datum**: Tisdagen den 22 juli  
+**Tid**: 16.00  
+**Plats**: Strandstugan
 
 ### Varmt välkomna till årsmöte med Långasands Byalag!
 
-Mer info kommer. 
+Efteråt bjuder vi på läckra pizza slicar!  
+Så kom och var med och påverka våra aktiviteter och vår bys framtid!  
 
-<!--
-**FÖRANMÄLAN SENAST 23 JULI 2023.**  
-Anmäl er närvaro till årsmötet genom att skicka mail till: hej@langasand.se
--->
+**FÖRANMÄLAN SENAST 19 JULI**  
+Anmäl er närvaro till årsmötet genom att skicka mail till: kerstin.vonbraun@hotmail.com 
+
 #### Dagordning
 
 §1 Mötet öppnas  
