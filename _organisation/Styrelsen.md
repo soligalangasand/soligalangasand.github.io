@@ -34,7 +34,7 @@ c/o Carl Tönsgård, Kullavägen 15, 31196 HEBERG
 </tr>
 <tr>
     <td valign="top"><strong>Ledamot</strong>
-    Hans Andersson, Trossnäsvägen 24
+    Hans Andersson
     </td>
 </tr>
 <tr>
