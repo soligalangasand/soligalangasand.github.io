@@ -20,7 +20,3 @@ Vi ser gärna att våra medlemmar är med och hjälper till vid våra arrangeman
 Hör av dig till någon i styrelsen. Kontaktuppgifterna uppgifterna finner du <a href="/organisation/Styrelsen.html">här.</a>
 
 Vi ses i Soliga Långasand!
-
-Carl Tönsgård 
-
-Ordförande
