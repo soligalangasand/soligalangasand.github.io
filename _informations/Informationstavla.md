@@ -10,7 +10,7 @@ title: Informationstavla
 </ul>
 <h3>Övriga platser:</h3>
 <ol>
- 	<li>Fotboll &amp; Boule</li>
+ 	<li>Fotboll, Utegym, Lekplats, Paddelbana &amp; Boule</li>
  	<li>Toalett - Norra stranden</li>
  	<li>Parkering &amp; WC. Containers</li>
  	<li>Anne-Maries Loge</li>
