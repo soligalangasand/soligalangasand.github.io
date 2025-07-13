@@ -6,9 +6,7 @@ title: Informationstavla
 <h3>I anslutning till INFORMATIONSTAVLAN FINNS:</h3>
 <ul>
  	<li>Restaurang &amp; Pub</li>
- 	<li>Glasscafe</li>
- 	<li>Kiosk</li>
- 	<li>Festplats</li>
+ 	<li>Pizzeria</li>
 </ul>
 <h3>Övriga platser:</h3>
 <ol>
