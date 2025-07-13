@@ -7,7 +7,7 @@ when: 2025-07-19 14:00
 
 Här ges tillfälle att forma fantasifulla sandskapelser!
 
-**När:** Lördagen den 20 juli kl 14-15  
+**När:** Lördagen den 19 juli kl 14-15  
 **Var:** Stranden vid Långasandsvägens slut  
 
 Skriftlig anmälan görs på stranden vid Långasandsvägens
