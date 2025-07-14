@@ -7,7 +7,7 @@ title: Stadgar
 Stadgar för den ideella föreningen Långasands Byalag.  
 Org. nr 802431-0305, Långasand/Heberg.  
 Föreningen bildades 1957.  
-Stadgarna antagna 27 juli 1973 och ändrade 30 juli 1976, 10 juli 201, 9 juli 2019 samt 26 juli 2021.
+Stadgarna antagna 27 juli 1973 och ändrade 30 juli 1976, 10 juli 2010, 9 juli 2019 samt 26 juli 2021.
 
 ## Allmänna betämmelser
 
