@@ -5,7 +5,7 @@ title: Styrelsen
 Org.nr: <strong>802431-0305</strong> Ideella föreningar
 
 <strong>Adress:</strong>
-c/o Carl Tönsgård, Kullavägen 15, 31196 HEBERG
+c/o Kiki Broholm Vestlunda 142 311 96 Heberg
 
 <strong>STYRELSE:</strong>
 <table>
