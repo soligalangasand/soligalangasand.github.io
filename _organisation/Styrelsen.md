@@ -23,13 +23,13 @@ c/o Carl Tönsgård, Kullavägen 15, 31196 HEBERG
 </tr>
 <tr>
     <td valign="top"><strong>Kassör</strong>
-    Ylva Rudling
+    Sven-Johan Lindmark
     </td>
     <td valign="top">E-post: <a href="mailto:kassor@langasand.se">kassor@langasand.se</a></td>
 </tr>
 <tr>
     <td valign="top"><strong>Sekreterare</strong>
-    Ingrid Tönsgård</td>
+    Kerstin von Braun</td>
     <td valign="top">E-post: <a href="mailto:sekreterare@langasand.se">sekreterare@langasand.se</a></td>
 </tr>
 <tr>
@@ -39,12 +39,17 @@ c/o Carl Tönsgård, Kullavägen 15, 31196 HEBERG
 </tr>
 <tr>
     <td valign="top"><strong>Ledamot</strong>
-    Kerstin von Braun
+    Christina Sandell
     </td>
 </tr>
 <tr>
     <td valign="top"><strong>Ledamot</strong>
     Peter Lindberg
+    </td>
+</tr>
+<tr>
+    <td valign="top"><strong>Ledamot</strong>
+    Åsa Gustafson
     </td>
 </tr>
 </tbody>
