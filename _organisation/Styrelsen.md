@@ -5,7 +5,7 @@ title: Styrelsen
 Org.nr: <strong>802431-0305</strong> Ideella föreningar
 
 <strong>Adress:</strong>
-c/o Kiki Broholm Vestlunda 142 311 96 Heberg
+c/o Kiki Broholm Vesslunda 142 311 96 Heberg
 
 <strong>STYRELSE:</strong>
 <table>
