@@ -5,10 +5,15 @@ when: 2025-12-06 15:00
 # Julmys vid Strandstugan
 ## Ta en paus i julstöket!
 
-<strong>När: Lördagen den 6 december kl. 15</strong><br>
+<strong>När: Lördagen den 6 december kl. 14.00-15.00</strong><br>
 <strong>Var: Vid Strandstugan</strong>
 
-Mer info när vi närmar oss!
+Vi går en liten runda i Långasand,
+letar tomteluvor och löser gåtor åt tomten.
+
+
+Efter rundan värmer vi oss med glögg och pepparkakor. 
+Långasands tomten har lämnat godispåsar till barnen.
 
 <!--
 Vi träffas vid Strandstugan och värmer oss med glögg, lussekatter och pepparkakor.
