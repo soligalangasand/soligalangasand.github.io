@@ -1,13 +1,13 @@
 ---
 title: Årsmöte
-when: 2025-07-22 kl 16:00
+when: 2026-08-02 kl 16:00
 visible: true
 ---
-# Årsmöte - 2025
+# Årsmöte - 2026
 
 ## Kallelse
 
-**Datum**: Tisdagen den 22 juli  
+**Datum**: Söndag den 2 Augusti  
 **Tid**: 16.00  
 **Plats**: Strandstugan
 
