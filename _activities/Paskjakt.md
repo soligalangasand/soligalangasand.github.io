@@ -1,7 +1,7 @@
 ---
 title: 'Påskäggsjakt'
 when: 2025-04-19 08:00
-end: '- 20'
+end: ''
 ---
 # Påskäggsjakt i Långasand!
 
