@@ -1,6 +1,6 @@
 ---
 title: 'Bouletävling: Le Pétoncle'
-when: 2025-07-14 17:00
+when: 2026-07-14 17:00
 ---
 <h1 class="aligncenter">Le Pétoncle - 2025</h1>
 
