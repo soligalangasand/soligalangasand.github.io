@@ -1,6 +1,6 @@
 ---
 title: Tipspromenad midsommardagen
-when: 2025-06-21 14:00
+when: 2026-06-20 14:00
 ---
 # Tipspromenad midsommardagen
 
