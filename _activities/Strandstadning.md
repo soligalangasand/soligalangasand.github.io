@@ -1,21 +1,19 @@
 ---
 title: 'Strandstädning'
-when: 2025-04-21 10:00
+when: 2026-04-06 10:00
 visible: true
 ---
 
 
 # STRANDSTÄDNING - ANNANDAG PÅSK
 
-**Samling kl 10.00 vid strandparkeringen på Långasandsvägen.**    
+**Samling kl 10.00 vid Strandstugan på Långasandsvägen.**    
 
-Vi hjälps åt att plocka plast och annat som flutit i land under vinterstormarna, samt röja en stig till stranden. Hjälps vi åt går det snabbt! 
+Tillsammans med Idrottföreningen och Vägföreningen gör vi fint i Långasand.
 
-Vi avslutar med korvgrillning på parkeringen.
+Vi avslutar med korvgrillning vid Stradstugan.
 
 Obs! Medtag egna arbetshandskar. Sopsäckar och dyl finns på plats. 
-
-Vi tackar den trogna skara som varje år är med och städar stranden!
 
 Väl mött på annandag påsk! 
 
