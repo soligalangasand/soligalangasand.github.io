@@ -1,11 +1,11 @@
 ---
-title: 'Strandstädning'
+title: 'Fixadag'
 when: 2026-04-06 10:00
 visible: true
 ---
 
 
-# STRANDSTÄDNING - ANNANDAG PÅSK
+# Fixadag - ANNANDAG PÅSK
 
 **Samling kl 10.00 vid Strandstugan på Långasandsvägen.**    
 
