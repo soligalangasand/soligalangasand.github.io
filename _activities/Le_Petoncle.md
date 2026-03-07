@@ -2,7 +2,7 @@
 title: 'Bouletävling: Le Pétoncle'
 when: 2026-07-14 17:00
 ---
-<h1 class="aligncenter">Le Pétoncle - 2025</h1>
+<h1 class="aligncenter">Le Pétoncle - 2026</h1>
 
 På Frankrikes nationaldag, den 14 juli, avgörs Långasands årliga Petanque/boule-turnering.
 
