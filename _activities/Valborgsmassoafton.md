@@ -1,6 +1,6 @@
 ---
 title: 'Valborgsmässoafton'
-when: 2025-04-30 20:00
+when: 2026-04-30 20:00
 ---
 
 # Valborgsmässoafton
