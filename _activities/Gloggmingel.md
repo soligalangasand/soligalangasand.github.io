@@ -1,6 +1,7 @@
 ---
 title: 'Julmys vid Strandstugan'
 when: 2025-12-06 15:00
+visible: false
 ---
 # Julmys vid Strandstugan
 ## Ta en paus i julstöket!
