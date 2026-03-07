@@ -1,13 +1,13 @@
 ---
 title: Sandbyggartävling
-when: 2025-07-19 14:00
+when: 2026-07-19 14:00
 ---
 
 # Välkommen till Långasands årliga sandbyggartävling
 
 Här ges tillfälle att forma fantasifulla sandskapelser!
 
-**När:** Lördagen den 19 juli kl 14-15  
+**När:** Söndag den 19 juli kl 14-15  
 **Var:** Stranden vid Långasandsvägens slut  
 
 Skriftlig anmälan görs på stranden vid Långasandsvägens
